@@ -9,11 +9,58 @@
   "B": 0.975,
   "C": 0.9833333333333333
  },
+ "primary_CvsB_confirmation": {
+  "both_correct": 117,
+  "B_only": 0,
+  "C_only": 1,
+  "neither": 2,
+  "mcnemar_exact_p": 1.0
+ },
+ "destruction_A_to_B": {
+  "destroyed": 3,
+  "fixed": 0,
+  "wilson95": [
+   0.853802009878548,
+   7.0931237404347565
+  ]
+ },
  "destruction_A_to_C": {
   "correct_kept": 118,
   "fixed": 0,
   "destroyed": 2,
-  "both_wrong": 0
+  "both_wrong": 0,
+  "wilson95": [
+   0.4582468541151394,
+   5.873712681291381
+  ]
+ },
+ "C_equals_A": {
+  "conf": 118,
+  "all": 157,
+  "note": "C is essentially A; disagreements all worse"
+ },
+ "fixable_errors": {
+  "n": 1,
+  "fixed_by_C": 0,
+  "detail": [
+   {
+    "pair_id": "P154",
+    "kind": "HARD_NEG",
+    "C_action": "KEEP",
+    "C_fixed": false
+   }
+  ]
+ },
+ "hard_A_to_C": {
+  "fixed": 0,
+  "destroyed": 1
+ },
+ "C_actions": {
+  "keep": 116,
+  "change_declared": 4,
+  "change_flipped": 3,
+  "change_flipped_wrong": 2,
+  "change_declared_no_flip": 2
  },
  "parse_fail": 0,
  "n_conf": 120
