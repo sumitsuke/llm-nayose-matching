@@ -1,0 +1,20 @@
+{
+ "delta_C_minus_B": 0.008333333333333304,
+ "ci": [
+  0.0,
+  0.025000000000000133
+ ],
+ "BA": {
+  "A": 1.0,
+  "B": 0.975,
+  "C": 0.9833333333333333
+ },
+ "destruction_A_to_C": {
+  "correct_kept": 118,
+  "fixed": 0,
+  "destroyed": 2,
+  "both_wrong": 0
+ },
+ "parse_fail": 0,
+ "n_conf": 120
+}

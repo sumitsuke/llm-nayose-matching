@@ -6,9 +6,6 @@ data/raw/
 __pycache__/
 *.pyc
 
-# scripts: contain local absolute paths; push sanitized versions later (with results)
-src/
-
 # WITHHELD from public: date-of-birth / verification data / feasibility dumps
 # (privacy incl. minors + avoid raw-data redistribution)
 data/phase0/
@@ -19,4 +16,3 @@ data/phase1/cost_measure_raw.json
 data/phase1/dev_smoke_results.json
 data/phase1/dev_smoke_prompts.json
 data/phase1/prompt_examples.txt
-data/phase1/run_results.json

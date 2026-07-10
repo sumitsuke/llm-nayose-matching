@@ -1,0 +1,8039 @@
+[
+ {
+  "pair_id": "P001",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 306,
+    "out": 66,
+    "reasoning": 21
+   },
+   "B": {
+    "inp": 306,
+    "out": 86,
+    "reasoning": 36
+   },
+   "C": {
+    "inp": 399,
+    "out": 103,
+    "reasoning": 58
+   }
+  }
+ },
+ {
+  "pair_id": "P002",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":92,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":95,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 372,
+    "out": 175,
+    "reasoning": 130
+   },
+   "B": {
+    "inp": 372,
+    "out": 236,
+    "reasoning": 191
+   },
+   "C": {
+    "inp": 465,
+    "out": 319,
+    "reasoning": 274
+   }
+  }
+ },
+ {
+  "pair_id": "P003",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 280,
+    "out": 342,
+    "reasoning": 297
+   },
+   "B": {
+    "inp": 280,
+    "out": 184,
+    "reasoning": 139
+   },
+   "C": {
+    "inp": 373,
+    "out": 215,
+    "reasoning": 170
+   }
+  }
+ },
+ {
+  "pair_id": "P004",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 329,
+    "out": 69,
+    "reasoning": 24
+   },
+   "B": {
+    "inp": 329,
+    "out": 84,
+    "reasoning": 39
+   },
+   "C": {
+    "inp": 422,
+    "out": 79,
+    "reasoning": 34
+   }
+  }
+ },
+ {
+  "pair_id": "P005",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 350,
+    "out": 84,
+    "reasoning": 34
+   },
+   "B": {
+    "inp": 350,
+    "out": 109,
+    "reasoning": 64
+   },
+   "C": {
+    "inp": 448,
+    "out": 96,
+    "reasoning": 51
+   }
+  }
+ },
+ {
+  "pair_id": "P006",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 367,
+    "out": 263,
+    "reasoning": 213
+   },
+   "B": {
+    "inp": 367,
+    "out": 117,
+    "reasoning": 72
+   },
+   "C": {
+    "inp": 465,
+    "out": 266,
+    "reasoning": 216
+   }
+  }
+ },
+ {
+  "pair_id": "P007",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 295,
+    "out": 89,
+    "reasoning": 44
+   },
+   "B": {
+    "inp": 295,
+    "out": 86,
+    "reasoning": 41
+   },
+   "C": {
+    "inp": 388,
+    "out": 155,
+    "reasoning": 105
+   }
+  }
+ },
+ {
+  "pair_id": "P008",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 94,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":94,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 356,
+    "out": 263,
+    "reasoning": 213
+   },
+   "B": {
+    "inp": 356,
+    "out": 307,
+    "reasoning": 257
+   },
+   "C": {
+    "inp": 454,
+    "out": 435,
+    "reasoning": 385
+   }
+  }
+ },
+ {
+  "pair_id": "P009",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 362,
+    "out": 268,
+    "reasoning": 218
+   },
+   "B": {
+    "inp": 362,
+    "out": 262,
+    "reasoning": 212
+   },
+   "C": {
+    "inp": 460,
+    "out": 230,
+    "reasoning": 180
+   }
+  }
+ },
+ {
+  "pair_id": "P010",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 93,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 93,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":93,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 279,
+    "out": 133,
+    "reasoning": 83
+   },
+   "B": {
+    "inp": 279,
+    "out": 180,
+    "reasoning": 135
+   },
+   "C": {
+    "inp": 377,
+    "out": 173,
+    "reasoning": 123
+   }
+  }
+ },
+ {
+  "pair_id": "P011",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 275,
+    "out": 75,
+    "reasoning": 30
+   },
+   "B": {
+    "inp": 275,
+    "out": 178,
+    "reasoning": 133
+   },
+   "C": {
+    "inp": 368,
+    "out": 119,
+    "reasoning": 74
+   }
+  }
+ },
+ {
+  "pair_id": "P012",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 341,
+    "out": 162,
+    "reasoning": 117
+   },
+   "B": {
+    "inp": 341,
+    "out": 146,
+    "reasoning": 101
+   },
+   "C": {
+    "inp": 434,
+    "out": 156,
+    "reasoning": 111
+   }
+  }
+ },
+ {
+  "pair_id": "P013",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 236,
+    "out": 81,
+    "reasoning": 36
+   },
+   "B": {
+    "inp": 236,
+    "out": 73,
+    "reasoning": 28
+   },
+   "C": {
+    "inp": 329,
+    "out": 103,
+    "reasoning": 58
+   }
+  }
+ },
+ {
+  "pair_id": "P014",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 336,
+    "out": 157,
+    "reasoning": 112
+   },
+   "B": {
+    "inp": 336,
+    "out": 181,
+    "reasoning": 136
+   },
+   "C": {
+    "inp": 429,
+    "out": 167,
+    "reasoning": 122
+   }
+  }
+ },
+ {
+  "pair_id": "P015",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 282,
+    "out": 112,
+    "reasoning": 67
+   },
+   "B": {
+    "inp": 282,
+    "out": 130,
+    "reasoning": 85
+   },
+   "C": {
+    "inp": 375,
+    "out": 140,
+    "reasoning": 90
+   }
+  }
+ },
+ {
+  "pair_id": "P016",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 283,
+    "out": 147,
+    "reasoning": 102
+   },
+   "B": {
+    "inp": 283,
+    "out": 127,
+    "reasoning": 82
+   },
+   "C": {
+    "inp": 376,
+    "out": 122,
+    "reasoning": 77
+   }
+  }
+ },
+ {
+  "pair_id": "P017",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 305,
+    "out": 188,
+    "reasoning": 138
+   },
+   "B": {
+    "inp": 305,
+    "out": 118,
+    "reasoning": 73
+   },
+   "C": {
+    "inp": 403,
+    "out": 166,
+    "reasoning": 116
+   }
+  }
+ },
+ {
+  "pair_id": "P018",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 295,
+    "out": 115,
+    "reasoning": 70
+   },
+   "B": {
+    "inp": 295,
+    "out": 89,
+    "reasoning": 44
+   },
+   "C": {
+    "inp": 388,
+    "out": 99,
+    "reasoning": 54
+   }
+  }
+ },
+ {
+  "pair_id": "P019",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 267,
+    "out": 144,
+    "reasoning": 99
+   },
+   "B": {
+    "inp": 267,
+    "out": 191,
+    "reasoning": 146
+   },
+   "C": {
+    "inp": 360,
+    "out": 138,
+    "reasoning": 88
+   }
+  }
+ },
+ {
+  "pair_id": "P020",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 275,
+    "out": 183,
+    "reasoning": 133
+   },
+   "B": {
+    "inp": 275,
+    "out": 115,
+    "reasoning": 70
+   },
+   "C": {
+    "inp": 373,
+    "out": 198,
+    "reasoning": 153
+   }
+  }
+ },
+ {
+  "pair_id": "P021",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 289,
+    "out": 83,
+    "reasoning": 38
+   },
+   "B": {
+    "inp": 289,
+    "out": 77,
+    "reasoning": 27
+   },
+   "C": {
+    "inp": 382,
+    "out": 82,
+    "reasoning": 37
+   }
+  }
+ },
+ {
+  "pair_id": "P022",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 284,
+    "out": 107,
+    "reasoning": 62
+   },
+   "B": {
+    "inp": 284,
+    "out": 130,
+    "reasoning": 85
+   },
+   "C": {
+    "inp": 377,
+    "out": 98,
+    "reasoning": 53
+   }
+  }
+ },
+ {
+  "pair_id": "P023",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 269,
+    "out": 88,
+    "reasoning": 43
+   },
+   "B": {
+    "inp": 269,
+    "out": 84,
+    "reasoning": 39
+   },
+   "C": {
+    "inp": 362,
+    "out": 86,
+    "reasoning": 41
+   }
+  }
+ },
+ {
+  "pair_id": "P024",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 282,
+    "out": 61,
+    "reasoning": 11
+   },
+   "B": {
+    "inp": 282,
+    "out": 78,
+    "reasoning": 33
+   },
+   "C": {
+    "inp": 380,
+    "out": 119,
+    "reasoning": 69
+   }
+  }
+ },
+ {
+  "pair_id": "P025",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 349,
+    "out": 68,
+    "reasoning": 23
+   },
+   "B": {
+    "inp": 349,
+    "out": 70,
+    "reasoning": 25
+   },
+   "C": {
+    "inp": 442,
+    "out": 158,
+    "reasoning": 108
+   }
+  }
+ },
+ {
+  "pair_id": "P026",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 363,
+    "out": 158,
+    "reasoning": 108
+   },
+   "B": {
+    "inp": 363,
+    "out": 82,
+    "reasoning": 37
+   },
+   "C": {
+    "inp": 461,
+    "out": 109,
+    "reasoning": 64
+   }
+  }
+ },
+ {
+  "pair_id": "P027",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 90,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":92,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":90,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 355,
+    "out": 308,
+    "reasoning": 263
+   },
+   "B": {
+    "inp": 355,
+    "out": 267,
+    "reasoning": 222
+   },
+   "C": {
+    "inp": 448,
+    "out": 378,
+    "reasoning": 333
+   }
+  }
+ },
+ {
+  "pair_id": "P028",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 357,
+    "out": 87,
+    "reasoning": 42
+   },
+   "B": {
+    "inp": 357,
+    "out": 102,
+    "reasoning": 57
+   },
+   "C": {
+    "inp": 450,
+    "out": 124,
+    "reasoning": 79
+   }
+  }
+ },
+ {
+  "pair_id": "P029",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 346,
+    "out": 141,
+    "reasoning": 96
+   },
+   "B": {
+    "inp": 346,
+    "out": 96,
+    "reasoning": 51
+   },
+   "C": {
+    "inp": 439,
+    "out": 161,
+    "reasoning": 116
+   }
+  }
+ },
+ {
+  "pair_id": "P030",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 94,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 368,
+    "out": 167,
+    "reasoning": 122
+   },
+   "B": {
+    "inp": 368,
+    "out": 310,
+    "reasoning": 265
+   },
+   "C": {
+    "inp": 461,
+    "out": 184,
+    "reasoning": 139
+   }
+  }
+ },
+ {
+  "pair_id": "P031",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 335,
+    "out": 95,
+    "reasoning": 50
+   },
+   "B": {
+    "inp": 335,
+    "out": 80,
+    "reasoning": 35
+   },
+   "C": {
+    "inp": 428,
+    "out": 97,
+    "reasoning": 52
+   }
+  }
+ },
+ {
+  "pair_id": "P032",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 350,
+    "out": 82,
+    "reasoning": 37
+   },
+   "B": {
+    "inp": 350,
+    "out": 105,
+    "reasoning": 60
+   },
+   "C": {
+    "inp": 443,
+    "out": 90,
+    "reasoning": 45
+   }
+  }
+ },
+ {
+  "pair_id": "P033",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 334,
+    "out": 81,
+    "reasoning": 36
+   },
+   "B": {
+    "inp": 334,
+    "out": 92,
+    "reasoning": 47
+   },
+   "C": {
+    "inp": 427,
+    "out": 77,
+    "reasoning": 32
+   }
+  }
+ },
+ {
+  "pair_id": "P034",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 357,
+    "out": 94,
+    "reasoning": 49
+   },
+   "B": {
+    "inp": 357,
+    "out": 87,
+    "reasoning": 42
+   },
+   "C": {
+    "inp": 450,
+    "out": 79,
+    "reasoning": 34
+   }
+  }
+ },
+ {
+  "pair_id": "P035",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 94,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 89,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":94,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":89,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 354,
+    "out": 284,
+    "reasoning": 231
+   },
+   "B": {
+    "inp": 354,
+    "out": 227,
+    "reasoning": 183
+   },
+   "C": {
+    "inp": 455,
+    "out": 325,
+    "reasoning": 281
+   }
+  }
+ },
+ {
+  "pair_id": "P036",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 304,
+    "out": 82,
+    "reasoning": 37
+   },
+   "B": {
+    "inp": 304,
+    "out": 89,
+    "reasoning": 44
+   },
+   "C": {
+    "inp": 397,
+    "out": 83,
+    "reasoning": 38
+   }
+  }
+ },
+ {
+  "pair_id": "P037",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 361,
+    "out": 165,
+    "reasoning": 115
+   },
+   "B": {
+    "inp": 361,
+    "out": 186,
+    "reasoning": 136
+   },
+   "C": {
+    "inp": 459,
+    "out": 270,
+    "reasoning": 220
+   }
+  }
+ },
+ {
+  "pair_id": "P038",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 355,
+    "out": 90,
+    "reasoning": 45
+   },
+   "B": {
+    "inp": 355,
+    "out": 98,
+    "reasoning": 53
+   },
+   "C": {
+    "inp": 448,
+    "out": 82,
+    "reasoning": 37
+   }
+  }
+ },
+ {
+  "pair_id": "P039",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 341,
+    "out": 84,
+    "reasoning": 39
+   },
+   "B": {
+    "inp": 341,
+    "out": 169,
+    "reasoning": 124
+   },
+   "C": {
+    "inp": 434,
+    "out": 81,
+    "reasoning": 36
+   }
+  }
+ },
+ {
+  "pair_id": "P040",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 336,
+    "out": 118,
+    "reasoning": 73
+   },
+   "B": {
+    "inp": 336,
+    "out": 118,
+    "reasoning": 68
+   },
+   "C": {
+    "inp": 429,
+    "out": 86,
+    "reasoning": 41
+   }
+  }
+ },
+ {
+  "pair_id": "P041",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 355,
+    "out": 81,
+    "reasoning": 36
+   },
+   "B": {
+    "inp": 355,
+    "out": 83,
+    "reasoning": 38
+   },
+   "C": {
+    "inp": 448,
+    "out": 76,
+    "reasoning": 31
+   }
+  }
+ },
+ {
+  "pair_id": "P042",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 349,
+    "out": 115,
+    "reasoning": 70
+   },
+   "B": {
+    "inp": 349,
+    "out": 133,
+    "reasoning": 83
+   },
+   "C": {
+    "inp": 442,
+    "out": 69,
+    "reasoning": 24
+   }
+  }
+ },
+ {
+  "pair_id": "P043",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 338,
+    "out": 79,
+    "reasoning": 34
+   },
+   "B": {
+    "inp": 338,
+    "out": 86,
+    "reasoning": 41
+   },
+   "C": {
+    "inp": 431,
+    "out": 150,
+    "reasoning": 105
+   }
+  }
+ },
+ {
+  "pair_id": "P044",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 245,
+    "out": 142,
+    "reasoning": 97
+   },
+   "B": {
+    "inp": 245,
+    "out": 148,
+    "reasoning": 103
+   },
+   "C": {
+    "inp": 338,
+    "out": 183,
+    "reasoning": 138
+   }
+  }
+ },
+ {
+  "pair_id": "P045",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 303,
+    "out": 85,
+    "reasoning": 40
+   },
+   "B": {
+    "inp": 303,
+    "out": 115,
+    "reasoning": 65
+   },
+   "C": {
+    "inp": 396,
+    "out": 117,
+    "reasoning": 72
+   }
+  }
+ },
+ {
+  "pair_id": "P046",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 334,
+    "out": 85,
+    "reasoning": 40
+   },
+   "B": {
+    "inp": 334,
+    "out": 126,
+    "reasoning": 76
+   },
+   "C": {
+    "inp": 427,
+    "out": 151,
+    "reasoning": 106
+   }
+  }
+ },
+ {
+  "pair_id": "P047",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 302,
+    "out": 118,
+    "reasoning": 73
+   },
+   "B": {
+    "inp": 302,
+    "out": 157,
+    "reasoning": 112
+   },
+   "C": {
+    "inp": 395,
+    "out": 133,
+    "reasoning": 88
+   }
+  }
+ },
+ {
+  "pair_id": "P048",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 306,
+    "out": 304,
+    "reasoning": 259
+   },
+   "B": {
+    "inp": 306,
+    "out": 96,
+    "reasoning": 46
+   },
+   "C": {
+    "inp": 399,
+    "out": 159,
+    "reasoning": 109
+   }
+  }
+ },
+ {
+  "pair_id": "P049",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 350,
+    "out": 86,
+    "reasoning": 41
+   },
+   "B": {
+    "inp": 350,
+    "out": 72,
+    "reasoning": 27
+   },
+   "C": {
+    "inp": 443,
+    "out": 68,
+    "reasoning": 23
+   }
+  }
+ },
+ {
+  "pair_id": "P050",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 342,
+    "out": 102,
+    "reasoning": 57
+   },
+   "B": {
+    "inp": 342,
+    "out": 177,
+    "reasoning": 132
+   },
+   "C": {
+    "inp": 435,
+    "out": 126,
+    "reasoning": 76
+   }
+  }
+ },
+ {
+  "pair_id": "P051",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 347,
+    "out": 164,
+    "reasoning": 119
+   },
+   "B": {
+    "inp": 347,
+    "out": 119,
+    "reasoning": 74
+   },
+   "C": {
+    "inp": 440,
+    "out": 174,
+    "reasoning": 124
+   }
+  }
+ },
+ {
+  "pair_id": "P052",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 94,
+   "evidence_codes": [
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\",\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 275,
+    "out": 130,
+    "reasoning": 85
+   },
+   "B": {
+    "inp": 275,
+    "out": 251,
+    "reasoning": 210
+   },
+   "C": {
+    "inp": 368,
+    "out": 562,
+    "reasoning": 512
+   }
+  }
+ },
+ {
+  "pair_id": "P053",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 262,
+    "out": 319,
+    "reasoning": 269
+   },
+   "B": {
+    "inp": 262,
+    "out": 98,
+    "reasoning": 48
+   },
+   "C": {
+    "inp": 360,
+    "out": 88,
+    "reasoning": 38
+   }
+  }
+ },
+ {
+  "pair_id": "P054",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 297,
+    "out": 79,
+    "reasoning": 29
+   },
+   "B": {
+    "inp": 297,
+    "out": 83,
+    "reasoning": 33
+   },
+   "C": {
+    "inp": 395,
+    "out": 108,
+    "reasoning": 58
+   }
+  }
+ },
+ {
+  "pair_id": "P055",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 351,
+    "out": 107,
+    "reasoning": 62
+   },
+   "B": {
+    "inp": 351,
+    "out": 138,
+    "reasoning": 93
+   },
+   "C": {
+    "inp": 444,
+    "out": 149,
+    "reasoning": 104
+   }
+  }
+ },
+ {
+  "pair_id": "P056",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 265,
+    "out": 71,
+    "reasoning": 26
+   },
+   "B": {
+    "inp": 265,
+    "out": 70,
+    "reasoning": 25
+   },
+   "C": {
+    "inp": 358,
+    "out": 96,
+    "reasoning": 51
+   }
+  }
+ },
+ {
+  "pair_id": "P057",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 350,
+    "out": 82,
+    "reasoning": 37
+   },
+   "B": {
+    "inp": 350,
+    "out": 98,
+    "reasoning": 48
+   },
+   "C": {
+    "inp": 443,
+    "out": 126,
+    "reasoning": 81
+   }
+  }
+ },
+ {
+  "pair_id": "P058",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 242,
+    "out": 76,
+    "reasoning": 31
+   },
+   "B": {
+    "inp": 242,
+    "out": 87,
+    "reasoning": 42
+   },
+   "C": {
+    "inp": 335,
+    "out": 90,
+    "reasoning": 45
+   }
+  }
+ },
+ {
+  "pair_id": "P059",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 342,
+    "out": 90,
+    "reasoning": 45
+   },
+   "B": {
+    "inp": 342,
+    "out": 140,
+    "reasoning": 95
+   },
+   "C": {
+    "inp": 435,
+    "out": 88,
+    "reasoning": 43
+   }
+  }
+ },
+ {
+  "pair_id": "P060",
+  "kind": "CONF",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 346,
+    "out": 91,
+    "reasoning": 46
+   },
+   "B": {
+    "inp": 346,
+    "out": 74,
+    "reasoning": 29
+   },
+   "C": {
+    "inp": 439,
+    "out": 90,
+    "reasoning": 45
+   }
+  }
+ },
+ {
+  "pair_id": "P061",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 287,
+    "out": 260,
+    "reasoning": 210
+   },
+   "B": {
+    "inp": 287,
+    "out": 136,
+    "reasoning": 91
+   },
+   "C": {
+    "inp": 385,
+    "out": 168,
+    "reasoning": 118
+   }
+  }
+ },
+ {
+  "pair_id": "P062",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":92,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 286,
+    "out": 111,
+    "reasoning": 66
+   },
+   "B": {
+    "inp": 286,
+    "out": 136,
+    "reasoning": 91
+   },
+   "C": {
+    "inp": 379,
+    "out": 133,
+    "reasoning": 88
+   }
+  }
+ },
+ {
+  "pair_id": "P063",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 83,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 86,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 88,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":83,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":88,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 279,
+    "out": 372,
+    "reasoning": 327
+   },
+   "B": {
+    "inp": 279,
+    "out": 173,
+    "reasoning": 128
+   },
+   "C": {
+    "inp": 372,
+    "out": 400,
+    "reasoning": 356
+   }
+  }
+ },
+ {
+  "pair_id": "P064",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":95,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 268,
+    "out": 96,
+    "reasoning": 51
+   },
+   "B": {
+    "inp": 268,
+    "out": 192,
+    "reasoning": 147
+   },
+   "C": {
+    "inp": 361,
+    "out": 199,
+    "reasoning": 154
+   }
+  }
+ },
+ {
+  "pair_id": "P065",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 289,
+    "out": 113,
+    "reasoning": 68
+   },
+   "B": {
+    "inp": 289,
+    "out": 115,
+    "reasoning": 70
+   },
+   "C": {
+    "inp": 382,
+    "out": 98,
+    "reasoning": 53
+   }
+  }
+ },
+ {
+  "pair_id": "P066",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\",\"LEAGUE_MATCH\"]}",
+  "tokens": {
+   "A": {
+    "inp": 294,
+    "out": 130,
+    "reasoning": 80
+   },
+   "B": {
+    "inp": 294,
+    "out": 129,
+    "reasoning": 84
+   },
+   "C": {
+    "inp": 392,
+    "out": 134,
+    "reasoning": 84
+   }
+  }
+ },
+ {
+  "pair_id": "P067",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 244,
+    "out": 100,
+    "reasoning": 55
+   },
+   "B": {
+    "inp": 244,
+    "out": 89,
+    "reasoning": 44
+   },
+   "C": {
+    "inp": 337,
+    "out": 113,
+    "reasoning": 68
+   }
+  }
+ },
+ {
+  "pair_id": "P068",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 274,
+    "out": 60,
+    "reasoning": 25
+   },
+   "B": {
+    "inp": 274,
+    "out": 73,
+    "reasoning": 38
+   },
+   "C": {
+    "inp": 357,
+    "out": 80,
+    "reasoning": 45
+   }
+  }
+ },
+ {
+  "pair_id": "P069",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 93,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 94,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":93,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":95,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 354,
+    "out": 328,
+    "reasoning": 283
+   },
+   "B": {
+    "inp": 354,
+    "out": 201,
+    "reasoning": 156
+   },
+   "C": {
+    "inp": 447,
+    "out": 198,
+    "reasoning": 153
+   }
+  }
+ },
+ {
+  "pair_id": "P070",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":95,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 297,
+    "out": 163,
+    "reasoning": 118
+   },
+   "B": {
+    "inp": 297,
+    "out": 160,
+    "reasoning": 115
+   },
+   "C": {
+    "inp": 390,
+    "out": 179,
+    "reasoning": 134
+   }
+  }
+ },
+ {
+  "pair_id": "P071",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":95,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 265,
+    "out": 111,
+    "reasoning": 66
+   },
+   "B": {
+    "inp": 265,
+    "out": 103,
+    "reasoning": 58
+   },
+   "C": {
+    "inp": 358,
+    "out": 107,
+    "reasoning": 62
+   }
+  }
+ },
+ {
+  "pair_id": "P072",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 279,
+    "out": 89,
+    "reasoning": 44
+   },
+   "B": {
+    "inp": 279,
+    "out": 80,
+    "reasoning": 35
+   },
+   "C": {
+    "inp": 372,
+    "out": 99,
+    "reasoning": 54
+   }
+  }
+ },
+ {
+  "pair_id": "P073",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 93,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 257,
+    "out": 114,
+    "reasoning": 79
+   },
+   "B": {
+    "inp": 257,
+    "out": 107,
+    "reasoning": 72
+   },
+   "C": {
+    "inp": 340,
+    "out": 91,
+    "reasoning": 56
+   }
+  }
+ },
+ {
+  "pair_id": "P074",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 291,
+    "out": 74,
+    "reasoning": 39
+   },
+   "B": {
+    "inp": 291,
+    "out": 108,
+    "reasoning": 63
+   },
+   "C": {
+    "inp": 374,
+    "out": 117,
+    "reasoning": 72
+   }
+  }
+ },
+ {
+  "pair_id": "P075",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 265,
+    "out": 98,
+    "reasoning": 53
+   },
+   "B": {
+    "inp": 265,
+    "out": 63,
+    "reasoning": 28
+   },
+   "C": {
+    "inp": 358,
+    "out": 83,
+    "reasoning": 38
+   }
+  }
+ },
+ {
+  "pair_id": "P076",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":95,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 261,
+    "out": 186,
+    "reasoning": 141
+   },
+   "B": {
+    "inp": 261,
+    "out": 165,
+    "reasoning": 120
+   },
+   "C": {
+    "inp": 354,
+    "out": 180,
+    "reasoning": 135
+   }
+  }
+ },
+ {
+  "pair_id": "P077",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 251,
+    "out": 102,
+    "reasoning": 67
+   },
+   "B": {
+    "inp": 251,
+    "out": 63,
+    "reasoning": 28
+   },
+   "C": {
+    "inp": 334,
+    "out": 167,
+    "reasoning": 132
+   }
+  }
+ },
+ {
+  "pair_id": "P078",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 295,
+    "out": 159,
+    "reasoning": 114
+   },
+   "B": {
+    "inp": 295,
+    "out": 84,
+    "reasoning": 49
+   },
+   "C": {
+    "inp": 388,
+    "out": 78,
+    "reasoning": 33
+   }
+  }
+ },
+ {
+  "pair_id": "P079",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 247,
+    "out": 129,
+    "reasoning": 84
+   },
+   "B": {
+    "inp": 247,
+    "out": 115,
+    "reasoning": 70
+   },
+   "C": {
+    "inp": 340,
+    "out": 134,
+    "reasoning": 89
+   }
+  }
+ },
+ {
+  "pair_id": "P080",
+  "kind": "HARD",
+  "truth": "SAME",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 247,
+    "out": 84,
+    "reasoning": 39
+   },
+   "B": {
+    "inp": 247,
+    "out": 111,
+    "reasoning": 66
+   },
+   "C": {
+    "inp": 340,
+    "out": 110,
+    "reasoning": 65
+   }
+  }
+ },
+ {
+  "pair_id": "P081",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 275,
+    "out": 113,
+    "reasoning": 73
+   },
+   "B": {
+    "inp": 275,
+    "out": 258,
+    "reasoning": 219
+   },
+   "C": {
+    "inp": 362,
+    "out": 419,
+    "reasoning": 375
+   }
+  }
+ },
+ {
+  "pair_id": "P082",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 100,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":100,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 320,
+    "out": 133,
+    "reasoning": 89
+   },
+   "B": {
+    "inp": 320,
+    "out": 101,
+    "reasoning": 57
+   },
+   "C": {
+    "inp": 412,
+    "out": 118,
+    "reasoning": 79
+   }
+  }
+ },
+ {
+  "pair_id": "P083",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 262,
+    "out": 122,
+    "reasoning": 83
+   },
+   "B": {
+    "inp": 262,
+    "out": 91,
+    "reasoning": 46
+   },
+   "C": {
+    "inp": 349,
+    "out": 152,
+    "reasoning": 107
+   }
+  }
+ },
+ {
+  "pair_id": "P084",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 274,
+    "out": 263,
+    "reasoning": 223
+   },
+   "B": {
+    "inp": 274,
+    "out": 400,
+    "reasoning": 361
+   },
+   "C": {
+    "inp": 361,
+    "out": 130,
+    "reasoning": 91
+   }
+  }
+ },
+ {
+  "pair_id": "P085",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": []
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 268,
+    "out": 213,
+    "reasoning": 182
+   },
+   "B": {
+    "inp": 268,
+    "out": 407,
+    "reasoning": 363
+   },
+   "C": {
+    "inp": 347,
+    "out": 136,
+    "reasoning": 100
+   }
+  }
+ },
+ {
+  "pair_id": "P086",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 277,
+    "out": 210,
+    "reasoning": 171
+   },
+   "B": {
+    "inp": 277,
+    "out": 281,
+    "reasoning": 237
+   },
+   "C": {
+    "inp": 364,
+    "out": 76,
+    "reasoning": 37
+   }
+  }
+ },
+ {
+  "pair_id": "P087",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 287,
+    "out": 126,
+    "reasoning": 87
+   },
+   "B": {
+    "inp": 287,
+    "out": 110,
+    "reasoning": 71
+   },
+   "C": {
+    "inp": 374,
+    "out": 212,
+    "reasoning": 168
+   }
+  }
+ },
+ {
+  "pair_id": "P088",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 271,
+    "out": 422,
+    "reasoning": 383
+   },
+   "B": {
+    "inp": 271,
+    "out": 140,
+    "reasoning": 96
+   },
+   "C": {
+    "inp": 358,
+    "out": 216,
+    "reasoning": 172
+   }
+  }
+ },
+ {
+  "pair_id": "P089",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 258,
+    "out": 272,
+    "reasoning": 236
+   },
+   "B": {
+    "inp": 258,
+    "out": 274,
+    "reasoning": 230
+   },
+   "C": {
+    "inp": 342,
+    "out": 183,
+    "reasoning": 147
+   }
+  }
+ },
+ {
+  "pair_id": "P090",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 342,
+    "out": 87,
+    "reasoning": 43
+   },
+   "B": {
+    "inp": 342,
+    "out": 94,
+    "reasoning": 50
+   },
+   "C": {
+    "inp": 434,
+    "out": 135,
+    "reasoning": 91
+   }
+  }
+ },
+ {
+  "pair_id": "P091",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 260,
+    "out": 141,
+    "reasoning": 97
+   },
+   "B": {
+    "inp": 260,
+    "out": 234,
+    "reasoning": 195
+   },
+   "C": {
+    "inp": 352,
+    "out": 149,
+    "reasoning": 105
+   }
+  }
+ },
+ {
+  "pair_id": "P092",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 308,
+    "out": 74,
+    "reasoning": 30
+   },
+   "B": {
+    "inp": 308,
+    "out": 65,
+    "reasoning": 26
+   },
+   "C": {
+    "inp": 400,
+    "out": 123,
+    "reasoning": 84
+   }
+  }
+ },
+ {
+  "pair_id": "P093",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 310,
+    "out": 120,
+    "reasoning": 76
+   },
+   "B": {
+    "inp": 310,
+    "out": 119,
+    "reasoning": 80
+   },
+   "C": {
+    "inp": 402,
+    "out": 170,
+    "reasoning": 131
+   }
+  }
+ },
+ {
+  "pair_id": "P094",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": []
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": []
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[]}",
+  "tokens": {
+   "A": {
+    "inp": 231,
+    "out": 256,
+    "reasoning": 225
+   },
+   "B": {
+    "inp": 231,
+    "out": 87,
+    "reasoning": 51
+   },
+   "C": {
+    "inp": 310,
+    "out": 195,
+    "reasoning": 164
+   }
+  }
+ },
+ {
+  "pair_id": "P095",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 243,
+    "out": 82,
+    "reasoning": 43
+   },
+   "B": {
+    "inp": 243,
+    "out": 181,
+    "reasoning": 142
+   },
+   "C": {
+    "inp": 330,
+    "out": 147,
+    "reasoning": 108
+   }
+  }
+ },
+ {
+  "pair_id": "P096",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": []
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 242,
+    "out": 211,
+    "reasoning": 175
+   },
+   "B": {
+    "inp": 242,
+    "out": 320,
+    "reasoning": 289
+   },
+   "C": {
+    "inp": 326,
+    "out": 143,
+    "reasoning": 107
+   }
+  }
+ },
+ {
+  "pair_id": "P097",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 263,
+    "out": 140,
+    "reasoning": 104
+   },
+   "B": {
+    "inp": 263,
+    "out": 103,
+    "reasoning": 67
+   },
+   "C": {
+    "inp": 347,
+    "out": 199,
+    "reasoning": 163
+   }
+  }
+ },
+ {
+  "pair_id": "P098",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 95,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 94,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":94,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 255,
+    "out": 80,
+    "reasoning": 41
+   },
+   "B": {
+    "inp": 255,
+    "out": 80,
+    "reasoning": 41
+   },
+   "C": {
+    "inp": 342,
+    "out": 462,
+    "reasoning": 416
+   }
+  }
+ },
+ {
+  "pair_id": "P099",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 266,
+    "out": 205,
+    "reasoning": 159
+   },
+   "B": {
+    "inp": 266,
+    "out": 280,
+    "reasoning": 244
+   },
+   "C": {
+    "inp": 360,
+    "out": 334,
+    "reasoning": 298
+   }
+  }
+ },
+ {
+  "pair_id": "P100",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": []
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[]}",
+  "tokens": {
+   "A": {
+    "inp": 248,
+    "out": 110,
+    "reasoning": 71
+   },
+   "B": {
+    "inp": 248,
+    "out": 113,
+    "reasoning": 74
+   },
+   "C": {
+    "inp": 335,
+    "out": 380,
+    "reasoning": 349
+   }
+  }
+ },
+ {
+  "pair_id": "P101",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 86,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":92,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 235,
+    "out": 302,
+    "reasoning": 265
+   },
+   "B": {
+    "inp": 235,
+    "out": 239,
+    "reasoning": 195
+   },
+   "C": {
+    "inp": 319,
+    "out": 209,
+    "reasoning": 173
+   }
+  }
+ },
+ {
+  "pair_id": "P102",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 267,
+    "out": 71,
+    "reasoning": 35
+   },
+   "B": {
+    "inp": 267,
+    "out": 133,
+    "reasoning": 97
+   },
+   "C": {
+    "inp": 351,
+    "out": 115,
+    "reasoning": 79
+   }
+  }
+ },
+ {
+  "pair_id": "P103",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 252,
+    "out": 204,
+    "reasoning": 160
+   },
+   "B": {
+    "inp": 252,
+    "out": 133,
+    "reasoning": 89
+   },
+   "C": {
+    "inp": 344,
+    "out": 183,
+    "reasoning": 144
+   }
+  }
+ },
+ {
+  "pair_id": "P104",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 324,
+    "out": 126,
+    "reasoning": 82
+   },
+   "B": {
+    "inp": 324,
+    "out": 98,
+    "reasoning": 59
+   },
+   "C": {
+    "inp": 416,
+    "out": 211,
+    "reasoning": 167
+   }
+  }
+ },
+ {
+  "pair_id": "P105",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 315,
+    "out": 80,
+    "reasoning": 36
+   },
+   "B": {
+    "inp": 315,
+    "out": 64,
+    "reasoning": 20
+   },
+   "C": {
+    "inp": 407,
+    "out": 67,
+    "reasoning": 23
+   }
+  }
+ },
+ {
+  "pair_id": "P106",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 230,
+    "out": 101,
+    "reasoning": 62
+   },
+   "B": {
+    "inp": 230,
+    "out": 149,
+    "reasoning": 110
+   },
+   "C": {
+    "inp": 317,
+    "out": 242,
+    "reasoning": 203
+   }
+  }
+ },
+ {
+  "pair_id": "P107",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONSISTENT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 316,
+    "out": 427,
+    "reasoning": 383
+   },
+   "B": {
+    "inp": 316,
+    "out": 352,
+    "reasoning": 302
+   },
+   "C": {
+    "inp": 408,
+    "out": 116,
+    "reasoning": 71
+   }
+  }
+ },
+ {
+  "pair_id": "P108",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 243,
+    "out": 90,
+    "reasoning": 51
+   },
+   "B": {
+    "inp": 243,
+    "out": 89,
+    "reasoning": 50
+   },
+   "C": {
+    "inp": 330,
+    "out": 90,
+    "reasoning": 46
+   }
+  }
+ },
+ {
+  "pair_id": "P109",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 100,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 100,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":100,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":100,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 297,
+    "out": 59,
+    "reasoning": 20
+   },
+   "B": {
+    "inp": 297,
+    "out": 94,
+    "reasoning": 55
+   },
+   "C": {
+    "inp": 384,
+    "out": 63,
+    "reasoning": 24
+   }
+  }
+ },
+ {
+  "pair_id": "P110",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 280,
+    "out": 100,
+    "reasoning": 56
+   },
+   "B": {
+    "inp": 280,
+    "out": 71,
+    "reasoning": 32
+   },
+   "C": {
+    "inp": 372,
+    "out": 144,
+    "reasoning": 100
+   }
+  }
+ },
+ {
+  "pair_id": "P111",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 343,
+    "out": 72,
+    "reasoning": 28
+   },
+   "B": {
+    "inp": 343,
+    "out": 78,
+    "reasoning": 34
+   },
+   "C": {
+    "inp": 435,
+    "out": 68,
+    "reasoning": 24
+   }
+  }
+ },
+ {
+  "pair_id": "P112",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 242,
+    "out": 205,
+    "reasoning": 166
+   },
+   "B": {
+    "inp": 242,
+    "out": 298,
+    "reasoning": 259
+   },
+   "C": {
+    "inp": 329,
+    "out": 200,
+    "reasoning": 156
+   }
+  }
+ },
+ {
+  "pair_id": "P113",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 262,
+    "out": 88,
+    "reasoning": 50
+   },
+   "B": {
+    "inp": 262,
+    "out": 83,
+    "reasoning": 45
+   },
+   "C": {
+    "inp": 349,
+    "out": 103,
+    "reasoning": 59
+   }
+  }
+ },
+ {
+  "pair_id": "P114",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 266,
+    "out": 215,
+    "reasoning": 178
+   },
+   "B": {
+    "inp": 266,
+    "out": 296,
+    "reasoning": 252
+   },
+   "C": {
+    "inp": 350,
+    "out": 136,
+    "reasoning": 100
+   }
+  }
+ },
+ {
+  "pair_id": "P115",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\",\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 290,
+    "out": 198,
+    "reasoning": 154
+   },
+   "B": {
+    "inp": 290,
+    "out": 104,
+    "reasoning": 60
+   },
+   "C": {
+    "inp": 382,
+    "out": 236,
+    "reasoning": 192
+   }
+  }
+ },
+ {
+  "pair_id": "P116",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 93,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":93,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 248,
+    "out": 118,
+    "reasoning": 82
+   },
+   "B": {
+    "inp": 248,
+    "out": 93,
+    "reasoning": 52
+   },
+   "C": {
+    "inp": 332,
+    "out": 96,
+    "reasoning": 60
+   }
+  }
+ },
+ {
+  "pair_id": "P117",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 94,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 279,
+    "out": 145,
+    "reasoning": 106
+   },
+   "B": {
+    "inp": 279,
+    "out": 356,
+    "reasoning": 317
+   },
+   "C": {
+    "inp": 366,
+    "out": 72,
+    "reasoning": 33
+   }
+  }
+ },
+ {
+  "pair_id": "P118",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 93,
+   "evidence_codes": []
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 92,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":92,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 241,
+    "out": 137,
+    "reasoning": 96
+   },
+   "B": {
+    "inp": 241,
+    "out": 472,
+    "reasoning": 441
+   },
+   "C": {
+    "inp": 330,
+    "out": 413,
+    "reasoning": 377
+   }
+  }
+ },
+ {
+  "pair_id": "P119",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 93,
+   "evidence_codes": []
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":93,\"evidence_codes\":[]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 244,
+    "out": 289,
+    "reasoning": 258
+   },
+   "B": {
+    "inp": 244,
+    "out": 115,
+    "reasoning": 76
+   },
+   "C": {
+    "inp": 323,
+    "out": 209,
+    "reasoning": 173
+   }
+  }
+ },
+ {
+  "pair_id": "P120",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 317,
+    "out": 85,
+    "reasoning": 41
+   },
+   "B": {
+    "inp": 317,
+    "out": 98,
+    "reasoning": 59
+   },
+   "C": {
+    "inp": 409,
+    "out": 102,
+    "reasoning": 58
+   }
+  }
+ },
+ {
+  "pair_id": "P121",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 353,
+    "out": 67,
+    "reasoning": 28
+   },
+   "B": {
+    "inp": 353,
+    "out": 96,
+    "reasoning": 57
+   },
+   "C": {
+    "inp": 440,
+    "out": 125,
+    "reasoning": 81
+   }
+  }
+ },
+ {
+  "pair_id": "P122",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 302,
+    "out": 83,
+    "reasoning": 44
+   },
+   "B": {
+    "inp": 302,
+    "out": 128,
+    "reasoning": 89
+   },
+   "C": {
+    "inp": 389,
+    "out": 212,
+    "reasoning": 168
+   }
+  }
+ },
+ {
+  "pair_id": "P123",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 275,
+    "out": 290,
+    "reasoning": 246
+   },
+   "B": {
+    "inp": 275,
+    "out": 63,
+    "reasoning": 24
+   },
+   "C": {
+    "inp": 367,
+    "out": 240,
+    "reasoning": 201
+   }
+  }
+ },
+ {
+  "pair_id": "P124",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 280,
+    "out": 150,
+    "reasoning": 111
+   },
+   "B": {
+    "inp": 280,
+    "out": 273,
+    "reasoning": 234
+   },
+   "C": {
+    "inp": 367,
+    "out": 162,
+    "reasoning": 123
+   }
+  }
+ },
+ {
+  "pair_id": "P125",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 260,
+    "out": 84,
+    "reasoning": 45
+   },
+   "B": {
+    "inp": 260,
+    "out": 108,
+    "reasoning": 69
+   },
+   "C": {
+    "inp": 347,
+    "out": 126,
+    "reasoning": 87
+   }
+  }
+ },
+ {
+  "pair_id": "P126",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 93,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 93,
+   "evidence_codes": [
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":93,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 254,
+    "out": 116,
+    "reasoning": 72
+   },
+   "B": {
+    "inp": 254,
+    "out": 317,
+    "reasoning": 276
+   },
+   "C": {
+    "inp": 346,
+    "out": 228,
+    "reasoning": 192
+   }
+  }
+ },
+ {
+  "pair_id": "P127",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 257,
+    "out": 189,
+    "reasoning": 150
+   },
+   "B": {
+    "inp": 257,
+    "out": 112,
+    "reasoning": 73
+   },
+   "C": {
+    "inp": 344,
+    "out": 131,
+    "reasoning": 87
+   }
+  }
+ },
+ {
+  "pair_id": "P128",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 100,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":100,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 348,
+    "out": 73,
+    "reasoning": 29
+   },
+   "B": {
+    "inp": 348,
+    "out": 205,
+    "reasoning": 166
+   },
+   "C": {
+    "inp": 440,
+    "out": 206,
+    "reasoning": 162
+   }
+  }
+ },
+ {
+  "pair_id": "P129",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\",\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 328,
+    "out": 73,
+    "reasoning": 29
+   },
+   "B": {
+    "inp": 328,
+    "out": 67,
+    "reasoning": 28
+   },
+   "C": {
+    "inp": 420,
+    "out": 87,
+    "reasoning": 43
+   }
+  }
+ },
+ {
+  "pair_id": "P130",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 250,
+    "out": 130,
+    "reasoning": 86
+   },
+   "B": {
+    "inp": 250,
+    "out": 81,
+    "reasoning": 42
+   },
+   "C": {
+    "inp": 342,
+    "out": 219,
+    "reasoning": 175
+   }
+  }
+ },
+ {
+  "pair_id": "P131",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 233,
+    "out": 270,
+    "reasoning": 226
+   },
+   "B": {
+    "inp": 233,
+    "out": 130,
+    "reasoning": 91
+   },
+   "C": {
+    "inp": 325,
+    "out": 104,
+    "reasoning": 60
+   }
+  }
+ },
+ {
+  "pair_id": "P132",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 240,
+    "out": 118,
+    "reasoning": 80
+   },
+   "B": {
+    "inp": 240,
+    "out": 149,
+    "reasoning": 110
+   },
+   "C": {
+    "inp": 327,
+    "out": 106,
+    "reasoning": 62
+   }
+  }
+ },
+ {
+  "pair_id": "P133",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "LEAGUE_MATCH"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\",\"LEAGUE_MATCH\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 267,
+    "out": 202,
+    "reasoning": 158
+   },
+   "B": {
+    "inp": 267,
+    "out": 111,
+    "reasoning": 72
+   },
+   "C": {
+    "inp": 359,
+    "out": 165,
+    "reasoning": 121
+   }
+  }
+ },
+ {
+  "pair_id": "P134",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 241,
+    "out": 237,
+    "reasoning": 198
+   },
+   "B": {
+    "inp": 241,
+    "out": 163,
+    "reasoning": 124
+   },
+   "C": {
+    "inp": 328,
+    "out": 283,
+    "reasoning": 239
+   }
+  }
+ },
+ {
+  "pair_id": "P135",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 330,
+    "out": 70,
+    "reasoning": 31
+   },
+   "B": {
+    "inp": 330,
+    "out": 116,
+    "reasoning": 77
+   },
+   "C": {
+    "inp": 417,
+    "out": 180,
+    "reasoning": 141
+   }
+  }
+ },
+ {
+  "pair_id": "P136",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 251,
+    "out": 207,
+    "reasoning": 163
+   },
+   "B": {
+    "inp": 251,
+    "out": 178,
+    "reasoning": 139
+   },
+   "C": {
+    "inp": 343,
+    "out": 128,
+    "reasoning": 84
+   }
+  }
+ },
+ {
+  "pair_id": "P137",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 288,
+    "out": 161,
+    "reasoning": 117
+   },
+   "B": {
+    "inp": 288,
+    "out": 106,
+    "reasoning": 67
+   },
+   "C": {
+    "inp": 380,
+    "out": 162,
+    "reasoning": 123
+   }
+  }
+ },
+ {
+  "pair_id": "P138",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 100,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":100,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\",\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 332,
+    "out": 226,
+    "reasoning": 187
+   },
+   "B": {
+    "inp": 332,
+    "out": 95,
+    "reasoning": 51
+   },
+   "C": {
+    "inp": 419,
+    "out": 128,
+    "reasoning": 84
+   }
+  }
+ },
+ {
+  "pair_id": "P139",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 305,
+    "out": 359,
+    "reasoning": 320
+   },
+   "B": {
+    "inp": 305,
+    "out": 274,
+    "reasoning": 230
+   },
+   "C": {
+    "inp": 392,
+    "out": 387,
+    "reasoning": 343
+   }
+  }
+ },
+ {
+  "pair_id": "P140",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 256,
+    "out": 116,
+    "reasoning": 77
+   },
+   "B": {
+    "inp": 256,
+    "out": 255,
+    "reasoning": 216
+   },
+   "C": {
+    "inp": 343,
+    "out": 198,
+    "reasoning": 159
+   }
+  }
+ },
+ {
+  "pair_id": "P141",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 274,
+    "out": 109,
+    "reasoning": 64
+   },
+   "B": {
+    "inp": 274,
+    "out": 286,
+    "reasoning": 247
+   },
+   "C": {
+    "inp": 366,
+    "out": 245,
+    "reasoning": 206
+   }
+  }
+ },
+ {
+  "pair_id": "P142",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 254,
+    "out": 278,
+    "reasoning": 244
+   },
+   "B": {
+    "inp": 254,
+    "out": 98,
+    "reasoning": 55
+   },
+   "C": {
+    "inp": 338,
+    "out": 114,
+    "reasoning": 72
+   }
+  }
+ },
+ {
+  "pair_id": "P143",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 261,
+    "out": 470,
+    "reasoning": 434
+   },
+   "B": {
+    "inp": 261,
+    "out": 100,
+    "reasoning": 56
+   },
+   "C": {
+    "inp": 345,
+    "out": 176,
+    "reasoning": 140
+   }
+  }
+ },
+ {
+  "pair_id": "P144",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 285,
+    "out": 173,
+    "reasoning": 134
+   },
+   "B": {
+    "inp": 285,
+    "out": 149,
+    "reasoning": 105
+   },
+   "C": {
+    "inp": 372,
+    "out": 99,
+    "reasoning": 55
+   }
+  }
+ },
+ {
+  "pair_id": "P145",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 252,
+    "out": 120,
+    "reasoning": 81
+   },
+   "B": {
+    "inp": 252,
+    "out": 437,
+    "reasoning": 391
+   },
+   "C": {
+    "inp": 339,
+    "out": 203,
+    "reasoning": 164
+   }
+  }
+ },
+ {
+  "pair_id": "P146",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 244,
+    "out": 75,
+    "reasoning": 36
+   },
+   "B": {
+    "inp": 244,
+    "out": 118,
+    "reasoning": 79
+   },
+   "C": {
+    "inp": 331,
+    "out": 161,
+    "reasoning": 117
+   }
+  }
+ },
+ {
+  "pair_id": "P147",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":97,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 245,
+    "out": 217,
+    "reasoning": 173
+   },
+   "B": {
+    "inp": 245,
+    "out": 90,
+    "reasoning": 51
+   },
+   "C": {
+    "inp": 337,
+    "out": 130,
+    "reasoning": 86
+   }
+  }
+ },
+ {
+  "pair_id": "P148",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT",
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 251,
+    "out": 98,
+    "reasoning": 59
+   },
+   "B": {
+    "inp": 251,
+    "out": 91,
+    "reasoning": 47
+   },
+   "C": {
+    "inp": 338,
+    "out": 126,
+    "reasoning": 82
+   }
+  }
+ },
+ {
+  "pair_id": "P149",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": []
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[]}",
+  "tokens": {
+   "A": {
+    "inp": 255,
+    "out": 73,
+    "reasoning": 37
+   },
+   "B": {
+    "inp": 255,
+    "out": 90,
+    "reasoning": 54
+   },
+   "C": {
+    "inp": 339,
+    "out": 268,
+    "reasoning": 237
+   }
+  }
+ },
+ {
+  "pair_id": "P150",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 350,
+    "out": 218,
+    "reasoning": 174
+   },
+   "B": {
+    "inp": 350,
+    "out": 77,
+    "reasoning": 33
+   },
+   "C": {
+    "inp": 442,
+    "out": 173,
+    "reasoning": 129
+   }
+  }
+ },
+ {
+  "pair_id": "P151",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 97,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONSISTENT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONSISTENT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 242,
+    "out": 104,
+    "reasoning": 63
+   },
+   "B": {
+    "inp": 242,
+    "out": 558,
+    "reasoning": 512
+   },
+   "C": {
+    "inp": 331,
+    "out": 122,
+    "reasoning": 86
+   }
+  }
+ },
+ {
+  "pair_id": "P152",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 335,
+    "out": 80,
+    "reasoning": 36
+   },
+   "B": {
+    "inp": 335,
+    "out": 80,
+    "reasoning": 35
+   },
+   "C": {
+    "inp": 427,
+    "out": 131,
+    "reasoning": 87
+   }
+  }
+ },
+ {
+  "pair_id": "P153",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 263,
+    "out": 191,
+    "reasoning": 152
+   },
+   "B": {
+    "inp": 263,
+    "out": 115,
+    "reasoning": 76
+   },
+   "C": {
+    "inp": 350,
+    "out": 114,
+    "reasoning": 70
+   }
+  }
+ },
+ {
+  "pair_id": "P154",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 96,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "B": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 95,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "C": {
+   "final_decision": "SAME",
+   "action": "KEEP",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":96,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "C_raw": "{\"final_decision\":\"SAME\",\"action\":\"KEEP\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\"]}",
+  "tokens": {
+   "A": {
+    "inp": 242,
+    "out": 118,
+    "reasoning": 83
+   },
+   "B": {
+    "inp": 242,
+    "out": 67,
+    "reasoning": 32
+   },
+   "C": {
+    "inp": 325,
+    "out": 145,
+    "reasoning": 110
+   }
+  }
+ },
+ {
+  "pair_id": "P155",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 249,
+    "out": 103,
+    "reasoning": 64
+   },
+   "B": {
+    "inp": 249,
+    "out": 89,
+    "reasoning": 49
+   },
+   "C": {
+    "inp": 336,
+    "out": 162,
+    "reasoning": 118
+   }
+  }
+ },
+ {
+  "pair_id": "P156",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 96,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 240,
+    "out": 94,
+    "reasoning": 55
+   },
+   "B": {
+    "inp": 240,
+    "out": 123,
+    "reasoning": 84
+   },
+   "C": {
+    "inp": 327,
+    "out": 183,
+    "reasoning": 139
+   }
+  }
+ },
+ {
+  "pair_id": "P157",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 257,
+    "out": 77,
+    "reasoning": 38
+   },
+   "B": {
+    "inp": 257,
+    "out": 75,
+    "reasoning": 36
+   },
+   "C": {
+    "inp": 344,
+    "out": 134,
+    "reasoning": 95
+   }
+  }
+ },
+ {
+  "pair_id": "P158",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 255,
+    "out": 113,
+    "reasoning": 69
+   },
+   "B": {
+    "inp": 255,
+    "out": 142,
+    "reasoning": 103
+   },
+   "C": {
+    "inp": 347,
+    "out": 160,
+    "reasoning": 116
+   }
+  }
+ },
+ {
+  "pair_id": "P159",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 98,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":98,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 263,
+    "out": 441,
+    "reasoning": 397
+   },
+   "B": {
+    "inp": 263,
+    "out": 223,
+    "reasoning": 179
+   },
+   "C": {
+    "inp": 355,
+    "out": 145,
+    "reasoning": 101
+   }
+  }
+ },
+ {
+  "pair_id": "P160",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "A": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "B": {
+   "final_decision": "DIFFERENT",
+   "action": "CHANGE",
+   "confidence": 99,
+   "evidence_codes": [
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "C": {
+   "final_decision": "DIFFERENT",
+   "action": "KEEP",
+   "confidence": 99,
+   "evidence_codes": [
+    "NAME_TRANSLITERATION",
+    "CLUB_TENURE_CONFLICT"
+   ]
+  },
+  "A_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"CHANGE\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "C_raw": "{\"final_decision\":\"DIFFERENT\",\"action\":\"KEEP\",\"confidence\":99,\"evidence_codes\":[\"NAME_TRANSLITERATION\",\"CLUB_TENURE_CONFLICT\"]}",
+  "tokens": {
+   "A": {
+    "inp": 283,
+    "out": 135,
+    "reasoning": 91
+   },
+   "B": {
+    "inp": 283,
+    "out": 126,
+    "reasoning": 87
+   },
+   "C": {
+    "inp": 375,
+    "out": 243,
+    "reasoning": 199
+   }
+  }
+ }
+]
