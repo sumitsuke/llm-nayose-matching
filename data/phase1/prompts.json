@@ -1,0 +1,1122 @@
+[
+ {
+  "pair_id": "P001",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 米倉恒貴\n  所属クラブ歴:\n    - Gamba Osaka (2014–)\n    - JEF United Chiba (2007–2013)\n    - JEF Reserves (2007–2007)\n    - Japan national under-20 association football team (2007–2007)\n    - Japan men's national football team (2015–)\n\nレコードB（ローマ字ソース）:\n  氏名: Koki Yonekura\n  所属クラブ歴:\n    - JEF Utd. Chiba (06/07)\n    - Gamba Osaka (13/14)"
+ },
+ {
+  "pair_id": "P002",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木大輔\n  所属クラブ歴:\n    - Albirex Niigata (2008–2012)\n    - Kashiwa Reysol (2013–2015)\n    - Gimnàstic de Tarragona (2016–2018)\n    - Japan national under-23 football team (2012–2012)\n    - Japan men's national football team (2013–2014)\n    - Japan Olympic football team (2012–2012)\n\nレコードB（ローマ字ソース）:\n  氏名: Daisuke Suzuki\n  所属クラブ歴:\n    - Albirex Niigata (06/07)\n    - Seiryo HS (07/08)\n    - Kashiwa Reysol (12/13)\n    - Gimnàstic (15/16)\n    - Urawa Reds (18/19)\n    - Without Club (18/19)"
+ },
+ {
+  "pair_id": "P003",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 飯倉大樹\n  所属クラブ歴:\n    - Roasso Kumamoto (2006–2006)\n    - Yokohama F. Marinos (2005–)\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroki Iikura\n  所属クラブ歴:\n    - Yokohama F. M. (04/05)\n    - Rosso Kumamoto (05/06)\n    - Vissel Kobe (19/20)"
+ },
+ {
+  "pair_id": "P004",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 倉田秋\n  所属クラブ歴:\n    - Gamba Osaka (2007–2009)\n    - JEF United Chiba (2010–2010)\n    - Cerezo Osaka (2011–2011)\n    - Japan men's national football team (2015–)\n    - Japan national under-17 football team (2003–2005)\n    - Japan national under-20 association football team (2005–2008)\n\nレコードB（ローマ字ソース）:\n  氏名: Shu Kurata\n  所属クラブ歴:\n    - Gamba Osaka (06/07)\n    - JEF Utd. Chiba (09/10)\n    - Cerezo Osaka (10/11)"
+ },
+ {
+  "pair_id": "P005",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 長沢駿\n  所属クラブ歴:\n    - Kyoto Sanga FC (2012–2012)\n    - Roasso Kumamoto (2011–2011)\n    - Shimizu S-Pulse (2007–2007)\n    - Matsumoto Yamaga FC (2013–2013)\n    - Gamba Osaka (2015–2015)\n\nレコードB（ローマ字ソース）:\n  氏名: Shun Nagasawa\n  所属クラブ歴:\n    - Shimizu S-Pulse (06/07)\n    - Roasso Kumamoto (10/11)\n    - Kyoto Sanga (11/12)\n    - Matsumoto Yama. (12/13)\n    - Gamba Osaka (15/16)\n    - Vegalta Sendai (18/19)"
+ },
+ {
+  "pair_id": "P006",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 武田洋平\n  所属クラブ歴:\n    - Albirex Niigata (2011–2011)\n    - Shimizu S-Pulse (2006–2012)\n    - Gamba Osaka (2012–2012)\n    - Cerezo Osaka (2013–2013)\n    - Oita Trinita (2014–2015)\n    - Japan national under-20 association football team (2007–2007)\n\nレコードB（ローマ字ソース）:\n  氏名: Yohei Takeda\n  所属クラブ歴:\n    - Shimizu S-Pulse (05/06)\n    - Albirex Niigata (11/12)\n    - Gamba Osaka (11/12)\n    - Cerezo Osaka (12/13)\n    - Oita Trinita (13/14)\n    - Nagoya Grampus (15/16)"
+ },
+ {
+  "pair_id": "P007",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 森重真人\n  所属クラブ歴:\n    - FC Tokyo (2010–)\n    - Oita Trinita (2006–2009)\n    - Japan national under-23 football team (2008–2008)\n    - Japan men's national football team (2013–)\n\nレコードB（ローマ字ソース）:\n  氏名: Masato Morishige\n  所属クラブ歴:\n    - Hiroshima HS (02/03)\n    - Oita Trinita (05/06)\n    - FC Tokyo (09/10)"
+ },
+ {
+  "pair_id": "P008",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 家長昭博\n  所属クラブ歴:\n    - Gamba Osaka (2004–2010)\n    - RCD Mallorca (2011–2014)\n    - Oita Trinita (2008–2009)\n    - Cerezo Osaka (2010–2010)\n    - Ulsan HD FC (2012–2012)\n    - Gamba Osaka (2012–2013)\n\nレコードB（ローマ字ソース）:\n  氏名: Akihiro Ienaga\n  所属クラブ歴:\n    - Gamba Osaka (04/05)\n    - Oita Trinita (07/08)\n    - Cerezo Osaka (09/10)\n    - RCD Mallorca (10/11)\n    - Ulsan Hyundai (11/12)\n    - Omiya Ardija (13/14)"
+ },
+ {
+  "pair_id": "P009",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 瀬戸貴幸\n  所属クラブ歴:\n    - FC Astra Giurgiu (2007–2015)\n    - Ankaraspor (2015–2016)\n    - FC Astra Giurgiu (2016–2017)\n    - Avaí Futebol Clube (2004–2005)\n    - S.C. Corinthians Paulista (2005–2006)\n    - FC Astra Giurgiu (2017–2018)\n\nレコードB（ローマ字ソース）:\n  氏名: Takayuki Seto\n  所属クラブ歴:\n    - Avaí U20 (03/04)\n    - Corinthians U20 (04/05)\n    - Portuguesa U20 (05/06)\n    - Without Club (05/06)\n    - FC Ploiești (07/08)\n    - Osmanlispor FK (15/16)"
+ },
+ {
+  "pair_id": "P010",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 竹内涼\n  所属クラブ歴:\n    - Shimizu S-Pulse (2009–)\n    - Giravanz Kitakyushu (2012–2012)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryo Takeuchi\n  所属クラブ歴:\n    - Shimizu S-Pulse (08/09)\n    - Gir. Kitakyushu (11/12)\n    - Fagiano Okayama (23/24)"
+ },
+ {
+  "pair_id": "P011",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 東口順昭\n  所属クラブ歴:\n    - Albirex Niigata (2009–2013)\n    - Gamba Osaka (2014–)\n    - Japan men's national football team (2015–)\n\nレコードB（ローマ字ソース）:\n  氏名: Masaaki Higashiguchi\n  所属クラブ歴:\n    - Albirex Niigata (08/09)\n    - Gamba Osaka (13/14)"
+ },
+ {
+  "pair_id": "P012",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 守田達弥\n  所属クラブ歴:\n    - Albirex Niigata (2014–)\n    - Kyoto Sanga FC (2009–2011)\n    - Kataller Toyama (2012–2013)\n    - Japan national under-23 football team (2011–2011)\n\nレコードB（ローマ字ソース）:\n  氏名: Tatsuya Morita\n  所属クラブ歴:\n    - Kyoto Sanga (08/09)\n    - Kataller Toyama (11/12)\n    - Albirex Niigata (13/14)\n    - Matsumoto Yama. (17/18)\n    - Sagan Tosu (19/20)\n    - Kashiwa Reysol (22/23)"
+ },
+ {
+  "pair_id": "P013",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 城後寿\n  所属クラブ歴:\n    - Avispa Fukuoka (2005–)\n\nレコードB（ローマ字ソース）:\n  氏名: Hisashi Jogo\n  所属クラブ歴:\n    - Avispa Fukuoka (04/05)"
+ },
+ {
+  "pair_id": "P014",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 川浪吾郎\n  所属クラブ歴:\n    - Albirex Niigata (2015–)\n    - Kashiwa Reysol (2010–2013)\n    - FC Gifu (2011–2011)\n    - Tokushima Vortis (2013–2014)\n\nレコードB（ローマ字ソース）:\n  氏名: Goro Kawanami\n  所属クラブ歴:\n    - Kashiwa Reysol (09/10)\n    - FC Gifu (10/11)\n    - Tokushima Vort. (12/13)\n    - Albirex Niigata (14/15)\n    - Vegalta Sendai (17/18)\n    - Sanf. Hiroshima (20/21)"
+ },
+ {
+  "pair_id": "P015",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 小林悠\n  所属クラブ歴:\n    - Kawasaki Frontale (2010–)\n    - Japan men's national football team (2014–)\n    - Mito HollyHock (2008–2008)\n\nレコードB（ローマ字ソース）:\n  氏名: Yu Kobayashi\n  所属クラブ歴:\n    - Mito HollyHock (07/08)\n    - Takushoku Univ. (08/09)\n    - Kawasaki Front. (09/10)"
+ },
+ {
+  "pair_id": "P016",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 石川慧\n  所属クラブ歴:\n    - Vegalta Sendai\n\nレコードB（ローマ字ソース）:\n  氏名: Kei Ishikawa\n  所属クラブ歴:\n    - Vegalta Sendai (10/11)\n    - Sony Sendai (12/13)\n    - Blaublitz Akita (13/14)\n    - Tochigi SC (17/18)\n    - Gamba Osaka (19/20)\n    - Sagan Tosu (19/20)"
+ },
+ {
+  "pair_id": "P017",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 新井章太\n  所属クラブ歴:\n    - Kawasaki Frontale (2013–2019)\n    - Tokyo Verdy (2011–2012)\n    - JEF United Chiba (2020–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shota Arai\n  所属クラブ歴:\n    - Kokushikan Univ (06/07)\n    - Tokyo Verdy (10/11)\n    - Kawasaki Front. (12/13)\n    - JEF Utd. Chiba (19/20)\n    - Vissel Kobe (23/24)"
+ },
+ {
+  "pair_id": "P018",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 牲川歩見\n  所属クラブ歴:\n    - Sagan Tosu\n\nレコードB（ローマ字ソース）:\n  氏名: Ayumi Niekawa\n  所属クラブ歴:\n    - Júbilo Iwata (12/13)\n    - Sagan Tosu (15/16)\n    - Thespaku. Gunma (16/17)\n    - a. cl. Numazu (17/18)\n    - Mito HollyHock (19/20)\n    - Urawa Reds (21/22)"
+ },
+ {
+  "pair_id": "P019",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 太田岳志\n  所属クラブ歴:\n    - FC Gifu (2013–2015)\n\nレコードB（ローマ字ソース）:\n  氏名: Gakuji Ota\n  所属クラブ歴:\n    - FC Gifu (12/13)\n    - Tokyo Verdy (15/16)\n    - Kataller Toyama (17/18)\n    - Kyoto Sanga (19/20)"
+ },
+ {
+  "pair_id": "P020",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 茶島雄介\n  所属クラブ歴:\n    - Sanfrecce Hiroshima (2014–)\n\nレコードB（ローマ字ソース）:\n  氏名: Yusuke Chajima\n  所属クラブ歴:\n    - Tokyo Gakugei  (09/10)\n    - Sanf. Hiroshima (13/14)\n    - JEF Utd. Chiba (17/18)\n    - Retired (26/27)"
+ },
+ {
+  "pair_id": "P021",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 圍謙太朗\n  所属クラブ歴:\n    - FC Tokyo\n\nレコードB（ローマ字ソース）:\n  氏名: Kentaro Kakoi\n  所属クラブ歴:\n    - Momoyama Gak. (09/10)\n    - FC Tokyo (13/14)\n    - Cerezo Osaka (16/17)\n    - Avispa Fukuoka (17/18)\n    - Matsumoto Yama. (19/20)\n    - SC Sagamihara (21/22)"
+ },
+ {
+  "pair_id": "P022",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 梶川裕嗣\n  所属クラブ歴:\n    - Shonan Bellmare\n\nレコードB（ローマ字ソース）:\n  氏名: Yuji Kajikawa\n  所属クラブ歴:\n    - Shonan Bellmare (13/14)\n    - Tokushima Vort. (16/17)\n    - Yokohama F. M. (19/20)\n    - Júbilo Iwata (21/22)\n    - Kashima Antlers (23/24)"
+ },
+ {
+  "pair_id": "P023",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 澤田崇\n  所属クラブ歴:\n    - Shimizu S-Pulse\n\nレコードB（ローマ字ソース）:\n  氏名: Takashi Sawada\n  所属クラブ歴:\n    - Chuo University (09/10)\n    - Roasso Kumamoto (13/14)\n    - Shimizu S-Pulse (14/15)\n    - V-V. Nagasaki (16/17)"
+ },
+ {
+  "pair_id": "P024",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 片山瑛一\n  所属クラブ歴:\n    - Fagiano Okayama\n\nレコードB（ローマ字ソース）:\n  氏名: Eiichi Katayama\n  所属クラブ歴:\n    - Fagiano Okayama (13/14)\n    - Cerezo Osaka (17/18)\n    - Shimizu S-Pulse (20/21)\n    - Kashiwa Reysol (22/23)\n    - Urawa Reds (25/26)"
+ },
+ {
+  "pair_id": "P025",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 長谷部誠\n  所属クラブ歴:\n    - VfL Wolfsburg (2008–2013)\n    - Urawa Red Diamonds (2002–2007)\n    - 1. FC Nürnberg (2013–2014)\n    - Eintracht Frankfurt (2014–)\n    - Japan men's national football team (2006–)\n    - Japan national under-23 football team (2006–2006)\n\nレコードB（ローマ字ソース）:\n  氏名: Makoto Hasebe\n  所属クラブ歴:\n    - Urawa Reds (01/02)\n    - VfL Wolfsburg (07/08)\n    - 1.FC Nuremberg (13/14)\n    - E. Frankfurt (14/15)\n    - Retired (24/25)"
+ },
+ {
+  "pair_id": "P026",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 原口元気\n  所属クラブ歴:\n    - Hertha BSC (2014–2018)\n    - Urawa Red Diamonds (2008–2014)\n    - Japan national under-19 association football team (2008–2008)\n    - Japan national under-23 football team (2012–2012)\n    - Japan men's national football team (2011–2022)\n    - Fortuna Düsseldorf (2018–2018)\n\nレコードB（ローマ字ソース）:\n  氏名: Genki Haraguchi\n  所属クラブ歴:\n    - Urawa Reds U18 (05/06)\n    - Urawa Reds (08/09)\n    - Hertha BSC (14/15)\n    - F. Düsseldorf (17/18)\n    - Hannover 96 (18/19)\n    - Union Berlin (21/22)"
+ },
+ {
+  "pair_id": "P027",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 水沼宏太\n  所属クラブ歴:\n    - Sagan Tosu (2012–2012)\n    - Yokohama F. Marinos (2007–2012)\n    - Tochigi SC (2010–2011)\n    - Sagan Tosu (2013–2015)\n    - FC Tokyo (2016–)\n    - Japan national under-17 football team (2005–2007)\n\nレコードB（ローマ字ソース）:\n  氏名: Kota Mizunuma\n  所属クラブ歴:\n    - Yokohama F. M. (07/08)\n    - Tochigi SC (10/11)\n    - Sagan Tosu (11/12)\n    - FC Tokyo (15/16)\n    - Cerezo Osaka (16/17)\n    - Newcastle (24/25)"
+ },
+ {
+  "pair_id": "P028",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 権田修一\n  所属クラブ歴:\n    - FC Tokyo (2007–2015)\n    - SV Horn (2016–2016)\n    - Japan national under-20 association football team (2008–2009)\n    - Japan national under-23 football team (2011–2012)\n    - Japan men's national football team (2010–2015)\n    - Japan Olympic football team (2012–2012)\n\nレコードB（ローマ字ソース）:\n  氏名: Shuichi Gonda\n  所属クラブ歴:\n    - FC Tokyo (06/07)\n    - SV Horn (15/16)\n    - Sagan Tosu (16/17)\n    - Portimonense (18/19)\n    - Shimizu S-Pulse (20/21)\n    - Without Club (24/25)"
+ },
+ {
+  "pair_id": "P029",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 長友佑都\n  所属クラブ歴:\n    - Inter Milan (2011–2018)\n    - FC Tokyo (2007–2010)\n    - AC Cesena (2010–2010)\n    - Japan men's national football team (2008–)\n    - Japan national under-23 football team (2007–2008)\n    - Galatasaray S.K. (2018–2018)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuto Nagatomo\n  所属クラブ歴:\n    - Meiji Uni (04/05)\n    - FC Tokyo (06/07)\n    - Cesena (10/11)\n    - Inter (10/11)\n    - Galatasaray (17/18)\n    - Marseille (20/21)"
+ },
+ {
+  "pair_id": "P030",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 岡崎慎司\n  所属クラブ歴:\n    - Shimizu S-Pulse (2005–2010)\n    - VfB Stuttgart (2011–2013)\n    - 1. FSV Mainz 05 (2013–2015)\n    - Leicester City F.C. (2015–2019)\n    - Japan national under-23 football team (2007–2008)\n    - Japan men's national football team (2008–2019)\n\nレコードB（ローマ字ソース）:\n  氏名: Shinji Okazaki\n  所属クラブ歴:\n    - Shimizu S-Pulse (04/05)\n    - VfB Stuttgart (10/11)\n    - 1.FSV Mainz 05 (13/14)\n    - Leicester (15/16)\n    - SD Huesca (19/20)\n    - Málaga CF (19/20)"
+ },
+ {
+  "pair_id": "P031",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 米本拓司\n  所属クラブ歴:\n    - FC Tokyo (2009–2018)\n    - Japan national under-17 football team (2007–2007)\n    - Japan men's national football team (2010–2010)\n    - FC Tokyo U-23 (2017–2018)\n    - Nagoya Grampus (2019–)\n    - Shonan Bellmare (2022–2022)\n\nレコードB（ローマ字ソース）:\n  氏名: Takuji Yonemoto\n  所属クラブ歴:\n    - FC Tokyo (08/09)\n    - Nagoya Grampus (18/19)\n    - Shonan Bellmare (21/22)\n    - Kyoto Sanga (24/25)"
+ },
+ {
+  "pair_id": "P032",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 香川真司\n  所属クラブ歴:\n    - Manchester United F.C. (2012–2014)\n    - Cerezo Osaka (2006–2010)\n    - Borussia Dortmund (2010–2012)\n    - Borussia Dortmund (2014–2019)\n    - Japan national under-20 association football team (2006–2008)\n    - Japan national under-23 football team (2008–2008)\n\nレコードB（ローマ字ソース）:\n  氏名: Shinji Kagawa\n  所属クラブ歴:\n    - Cerezo Osaka (05/06)\n    - Dortmund (10/11)\n    - Man Utd (12/13)\n    - Besiktas (18/19)\n    - Real Zaragoza (19/20)\n    - Without Club (20/21)"
+ },
+ {
+  "pair_id": "P033",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 西川周作\n  所属クラブ歴:\n    - Oita Trinita (2005–2009)\n    - Sanfrecce Hiroshima (2010–2013)\n    - Urawa Red Diamonds (2014–)\n    - Japan national under-20 association football team (2004–2005)\n    - Japan national under-23 football team (2007–2008)\n    - Japan men's national football team (2009–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shusaku Nishikawa\n  所属クラブ歴:\n    - Oita Trinita (04/05)\n    - Sanf. Hiroshima (09/10)\n    - Urawa Reds (13/14)"
+ },
+ {
+  "pair_id": "P034",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 吉田麻也\n  所属クラブ歴:\n    - Nagoya Grampus (2007–2009)\n    - VVV-Venlo (2010–2012)\n    - Southampton F.C. (2012–2020)\n    - Japan national under-23 football team (2008–2012)\n    - Japan men's national football team (2010–2022)\n    - Japan Olympic football team (2008–2008)\n\nレコードB（ローマ字ソース）:\n  氏名: Maya Yoshida\n  所属クラブ歴:\n    - Nagoya Grampus (06/07)\n    - VVV-Venlo (09/10)\n    - Southampton (12/13)\n    - Sampdoria (19/20)\n    - FC Schalke 04 (22/23)\n    - LA Galaxy (23/24)"
+ },
+ {
+  "pair_id": "P035",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 酒井宏樹\n  所属クラブ歴:\n    - Hannover 96 (2012–2016)\n    - Kashiwa Reysol (2009–2012)\n    - Japan national under-23 football team (2011–2012)\n    - Japan men's national football team (2012–)\n    - Olympique de Marseille (2016–2021)\n    - Urawa Red Diamonds (2021–)\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroki Sakai\n  所属クラブ歴:\n    - Kashiwa Reysol (08/09)\n    - Mogi Mirim (09/10)\n    - Hannover 96 (12/13)\n    - Marseille (16/17)\n    - Urawa Reds (21/22)\n    - Auckland FC (24/25)"
+ },
+ {
+  "pair_id": "P036",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 田口泰士\n  所属クラブ歴:\n    - Nagoya Grampus (2009–2017)\n    - Japan men's national football team (2014–)\n    - Júbilo Iwata (2018–2019)\n    - JEF United Chiba (2020–)\n\nレコードB（ローマ字ソース）:\n  氏名: Taishi Taguchi\n  所属クラブ歴:\n    - Nagoya Grampus (08/09)\n    - Júbilo Iwata (17/18)\n    - JEF Utd. Chiba (19/20)"
+ },
+ {
+  "pair_id": "P037",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 指宿洋史\n  所属クラブ歴:\n    - Albirex Niigata (2014–)\n    - Girona FC (2009–2011)\n    - Centre d'Esports Sabadell Futbol Club (2010–2011)\n    - Sevilla FC (2012–2013)\n    - K.A.S. Eupen (2012–2013)\n    - Japan national under-20 association football team (2010–2010)\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroshi Ibusuki\n  所属クラブ歴:\n    - Girona (08/09)\n    - Real Zaragoza B (09/10)\n    - CE Sabadell  (10/11)\n    - Sevilla Atl. (11/12)\n    - KAS Eupen (12/13)\n    - Sevilla FC (12/13)"
+ },
+ {
+  "pair_id": "P038",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 乾貴士\n  所属クラブ歴:\n    - VfL Bochum (2011–2012)\n    - Cerezo Osaka (2008–2008)\n    - Yokohama F. Marinos (2007–2009)\n    - Eintracht Frankfurt (2012–2015)\n    - Cerezo Osaka (2009–2011)\n    - SD Eibar (2015–2018)\n\nレコードB（ローマ字ソース）:\n  氏名: Takashi Inui\n  所属クラブ歴:\n    - Yokohama F. M. (06/07)\n    - Cerezo Osaka (08/09)\n    - VfL Bochum (11/12)\n    - Frankfurt (12/13)\n    - SD Eibar (15/16)\n    - Alavés (18/19)"
+ },
+ {
+  "pair_id": "P039",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 永井謙佑\n  所属クラブ歴:\n    - Standard Liège (2013–2013)\n    - Nagoya Grampus (2011–2012)\n    - Nagoya Grampus (2013–2014)\n    - Nagoya Grampus (2015–2016)\n    - Japan national under-20 association football team (2007–2009)\n    - Japan national under-23 football team (2009–2012)\n\nレコードB（ローマ字ソース）:\n  氏名: Kensuke Nagai\n  所属クラブ歴:\n    - Fukuoka Univ. (06/07)\n    - Nagoya Grampus (10/11)\n    - Standard Liège (12/13)\n    - FC Tokyo (16/17)"
+ },
+ {
+  "pair_id": "P040",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 酒井高徳\n  所属クラブ歴:\n    - Albirex Niigata (2006–2011)\n    - VfB Stuttgart (2012–2015)\n    - Hamburger SV (2015–2019)\n    - Japan national under-20 association football team (2009–2010)\n    - Japan national under-23 football team (2011–2012)\n    - Japan men's national football team (2012–)\n\nレコードB（ローマ字ソース）:\n  氏名: Gotoku Sakai\n  所属クラブ歴:\n    - Albirex Niigata (08/09)\n    - Stuttgart (11/12)\n    - Hamburg (15/16)\n    - Vissel Kobe (19/20)"
+ },
+ {
+  "pair_id": "P041",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 大迫勇也\n  所属クラブ歴:\n    - Kashima Antlers (2009–2013)\n    - TSV 1860 München (2014–2014)\n    - 1. FC Köln (2014–2018)\n    - Japan men's national football team (2013–2022)\n    - Japan national under-20 association football team (2009–2009)\n    - Japan national under-23 football team (2010–2010)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuya Osako\n  所属クラブ歴:\n    - Kashima Antlers (08/09)\n    - 1860 Munich (13/14)\n    - 1.FC Köln (14/15)\n    - Werder Bremen (18/19)\n    - Vissel Kobe (21/22)"
+ },
+ {
+  "pair_id": "P042",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 宇佐美貴史\n  所属クラブ歴:\n    - FC Bayern Munich (2011–2012)\n    - Gamba Osaka (2009–2016)\n    - FC Bayern Munich II (2011–2012)\n    - TSG 1899 Hoffenheim (2012–2013)\n    - Japan national under-17 football team (2007–2007)\n    - Japan national under-17 football team (2007–2008)\n\nレコードB（ローマ字ソース）:\n  氏名: Takashi Usami\n  所属クラブ歴:\n    - Gamba Osaka (08/09)\n    - Bayern Munich (11/12)\n    - Hoffenheim (12/13)\n    - Augsburg (16/17)\n    - F. Düsseldorf (17/18)"
+ },
+ {
+  "pair_id": "P043",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 東慶悟\n  所属クラブ歴:\n    - FC Tokyo (2013–)\n    - Oita Trinita (2009–2010)\n    - RB Omiya Ardija (2011–2012)\n    - Japan national under-23 football team (2010–2012)\n    - Japan national under-17 football team (2006–2006)\n    - Japan Olympic football team (2010–2012)\n\nレコードB（ローマ字ソース）:\n  氏名: Keigo Higashi\n  所属クラブ歴:\n    - Oita Trinita (08/09)\n    - Omiya Ardija (10/11)\n    - FC Tokyo (12/13)\n    - Without Club (26/27)"
+ },
+ {
+  "pair_id": "P044",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 登里享平\n  所属クラブ歴:\n    - Kawasaki Frontale (2009–)\n\nレコードB（ローマ字ソース）:\n  氏名: Kyohei Noborizato\n  所属クラブ歴:\n    - Kawasaki Front. (08/09)\n    - Cerezo Osaka (23/24)"
+ },
+ {
+  "pair_id": "P045",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 吉田豊\n  所属クラブ歴:\n    - Ventforet Kofu (2008–2011)\n    - Shimizu S-Pulse (2012–)\n    - Japan national under-17 football team (2007–2007)\n\nレコードB（ローマ字ソース）:\n  氏名: Yutaka Yoshida\n  所属クラブ歴:\n    - Ventforet Kofu (07/08)\n    - Shimizu S-Pulse (11/12)\n    - Sagan Tosu (14/15)\n    - Nagoya Grampus (18/19)"
+ },
+ {
+  "pair_id": "P046",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山口蛍\n  所属クラブ歴:\n    - Cerezo Osaka (2009–2015)\n    - Hannover 96 (2016–2016)\n    - Japan national under-23 football team (2010–2012)\n    - Japan men's national football team (2013–)\n    - Cerezo Osaka (2016–2018)\n    - Vissel Kobe (2019–2024)\n\nレコードB（ローマ字ソース）:\n  氏名: Hotaru Yamaguchi\n  所属クラブ歴:\n    - Cerezo Osaka (08/09)\n    - Hannover 96 (15/16)\n    - Vissel Kobe (18/19)\n    - V-V. Nagasaki (24/25)"
+ },
+ {
+  "pair_id": "P047",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: ハーフナー・ニッキ\n  所属クラブ歴:\n    - Nagoya Grampus (2013–2015)\n    - SV Horn (2016–)\n\nレコードB（ローマ字ソース）:\n  氏名: Nikki Havenaar\n  所属クラブ歴:\n    - Nagoya Grampus (12/13)\n    - SV Horn (15/16)\n    - FC Wil 1900 (18/19)\n    - FC Thun (19/20)\n    - Neuchâtel Xamax (22/23)\n    - SV Ried (23/24)"
+ },
+ {
+  "pair_id": "P048",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 松原健\n  所属クラブ歴:\n    - Albirex Niigata (2014–)\n    - Oita Trinita (2010–2014)\n    - Japan national under-17 football team (2009–2009)\n    - Japan men's national football team (2014–)\n\nレコードB（ローマ字ソース）:\n  氏名: Ken Matsubara\n  所属クラブ歴:\n    - Oita Trinita (10/11)\n    - Albirex Niigata (13/14)\n    - Yokohama F. M. (16/17)"
+ },
+ {
+  "pair_id": "P049",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 遠藤航\n  所属クラブ歴:\n    - Shonan Bellmare (2010–2015)\n    - Urawa Red Diamonds (2016–2018)\n    - Japan national under-20 association football team (2012–2012)\n    - Japan national under-23 football team (2015–2016)\n    - Japan men's national football team (2015–)\n    - Japan national under-17 football team (2009–2010)\n\nレコードB（ローマ字ソース）:\n  氏名: Wataru Endo\n  所属クラブ歴:\n    - Shonan Bellmare (10/11)\n    - Urawa Reds (15/16)\n    - Sint-Truiden (18/19)\n    - Stuttgart (19/20)\n    - Liverpool (23/24)"
+ },
+ {
+  "pair_id": "P050",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 南野拓実\n  所属クラブ歴:\n    - Cerezo Osaka (2012–2014)\n    - Liverpool F.C. (2020–2022)\n    - Japan national under-17 football team (2010–2011)\n    - Japan national under-20 association football team (2012–2012)\n    - Japan men's national football team (2015–)\n    - Japan national under-23 football team (2015–2016)\n\nレコードB（ローマ字ソース）:\n  氏名: Takumi Minamino\n  所属クラブ歴:\n    - Cerezo Osaka (12/13)\n    - Salzburg (14/15)\n    - Liverpool (19/20)\n    - Southampton (20/21)\n    - Monaco (22/23)"
+ },
+ {
+  "pair_id": "P051",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 浅野拓磨\n  所属クラブ歴:\n    - Sanfrecce Hiroshima (2013–2016)\n    - Arsenal F.C. (2016–2019)\n    - VfB Stuttgart (2016–2018)\n    - Hannover 96 (2018–2019)\n    - VfB Stuttgart II (2018–2018)\n    - Japan men's national football team (2015–)\n\nレコードB（ローマ字ソース）:\n  氏名: Takuma Asano\n  所属クラブ歴:\n    - Sanf. Hiroshima (12/13)\n    - Stuttgart (16/17)\n    - Arsenal (16/17)\n    - Hannover 96 (18/19)\n    - Partizan (19/20)\n    - VfL Bochum (21/22)"
+ },
+ {
+  "pair_id": "P052",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 川辺駿\n  所属クラブ歴:\n    - Júbilo Iwata\n\nレコードB（ローマ字ソース）:\n  氏名: Hayao Kawabe\n  所属クラブ歴:\n    - Sanf. Hiroshima (12/13)\n    - Júbilo Iwata (14/15)\n    - Wolves (21/22)\n    - Grasshoppers (21/22)\n    - Standard Liège (23/24)"
+ },
+ {
+  "pair_id": "P053",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中谷進之介\n  所属クラブ歴:\n    - Kashiwa Reysol (2013–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shinnosuke Nakatani\n  所属クラブ歴:\n    - Kashiwa Reysol (13/14)\n    - Nagoya Grampus (18/19)\n    - Gamba Osaka (23/24)"
+ },
+ {
+  "pair_id": "P054",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 小島亨介\n  所属クラブ歴:\n    - Oita Trinita\n    - Japan men's national football team\n    - Albirex Niigata\n    - Kashiwa Reysol\n\nレコードB（ローマ字ソース）:\n  氏名: Ryosuke Kojima\n  所属クラブ歴:\n    - Waseda Univ. (14/15)\n    - Oita Trinita (18/19)\n    - Albirex Niigata (19/20)\n    - Kashiwa Reysol (24/25)"
+ },
+ {
+  "pair_id": "P055",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 渡邊凌磨\n  所属クラブ歴:\n    - FC Ingolstadt 04 (2017–2018)\n    - Albirex Niigata (2018–2020)\n    - Montedio Yamagata (2020–2021)\n    - FC Tokyo (2021–2024)\n    - Urawa Red Diamonds (2024–)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryoma Watanabe\n  所属クラブ歴:\n    - Waseda Univ. (14/15)\n    - Ingolstadt II (15/16)\n    - Albirex Niigata (18/19)\n    - Monte. Yamagata (19/20)\n    - FC Tokyo (20/21)\n    - Urawa Reds (23/24)"
+ },
+ {
+  "pair_id": "P056",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 高丘陽平\n  所属クラブ歴:\n    - Yokohama FC\n\nレコードB（ローマ字ソース）:\n  氏名: Yohei Takaoka\n  所属クラブ歴:\n    - Yokohama FC (13/14)\n    - Sagan Tosu (17/18)\n    - Yokohama F. M. (19/20)\n    - Vancouver (22/23)"
+ },
+ {
+  "pair_id": "P057",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 冨安健洋\n  所属クラブ歴:\n    - Avispa Fukuoka (2015–2017)\n    - Japan men's national football team (2018–)\n    - Sint-Truidense V.V. (2018–2019)\n    - Bologna F.C. 1909 (2019–2021)\n    - Arsenal F.C. (2021–2025)\n    - AFC Ajax (2025–)\n\nレコードB（ローマ字ソース）:\n  氏名: Takehiro Tomiyasu\n  所属クラブ歴:\n    - Avispa Fukuoka (15/16)\n    - Sint-Truiden (17/18)\n    - Bologna (19/20)\n    - Arsenal (21/22)\n    - Without Club (25/26)\n    - Ajax (25/26)"
+ },
+ {
+  "pair_id": "P058",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木優磨\n  所属クラブ歴:\n    - Kashima Antlers\n\nレコードB（ローマ字ソース）:\n  氏名: Yuma Suzuki\n  所属クラブ歴:\n    - Kashima Antlers (14/15)\n    - Sint-Truiden (19/20)"
+ },
+ {
+  "pair_id": "P059",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中山雄太\n  所属クラブ歴:\n    - Kashiwa Reysol (2015–2018)\n    - Japan national under-17 football team (2013–2014)\n    - Japan national under-20 association football team (2016–2017)\n    - Japan men's national football team (2019–)\n    - J.League U-22 Selection (2015–2015)\n    - PEC Zwolle (2019–2022)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuta Nakayama\n  所属クラブ歴:\n    - Kashiwa Reysol (14/15)\n    - PEC Zwolle (18/19)\n    - Huddersfield (22/23)\n    - Machida Zelvia (24/25)"
+ },
+ {
+  "pair_id": "P060",
+  "kind": "CONF",
+  "truth": "SAME",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 伊東純也\n  所属クラブ歴:\n    - Kashiwa Reysol (2016–2020)\n    - Japan men's national football team (2017–)\n    - Ventforet Kofu (2015–2015)\n    - K.R.C. Genk (2019–2020)\n    - K.R.C. Genk (2020–2022)\n    - Stade de Reims (2022–)\n\nレコードB（ローマ字ソース）:\n  氏名: Junya Ito\n  所属クラブ歴:\n    - Kanagawa Uni (10/11)\n    - Ventforet Kofu (14/15)\n    - Kashiwa Reysol (15/16)\n    - Genk (18/19)\n    - Stade Reims (22/23)"
+ },
+ {
+  "pair_id": "P061",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: オビ・パウエル・オビンナ\n  所属クラブ歴:\n    - Yokohama F. Marinos\n\nレコードB（ローマ字ソース）:\n  氏名: Powell Obinna Obi\n  所属クラブ歴:\n    - RKU (15/16)\n    - Yokohama F. M. (19/20)\n    - Tochigi SC (20/21)\n    - Vissel Kobe (23/24)\n    - Avispa Fukuoka (25/26)"
+ },
+ {
+  "pair_id": "P062",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: ファンティーニ燦\n  所属クラブ歴:\n    - AC Cesena\n\nレコードB（ローマ字ソース）:\n  氏名: Akira Fantini\n  所属クラブ歴:\n    - Cesena U19 (15/16)\n    - Sagan Tosu (16/17)\n    - Without Club (18/19)\n    - Fukushima Utd. (19/20)\n    - Reno. Yamaguchi (21/22)\n    - Kyoto Sanga (23/24)"
+ },
+ {
+  "pair_id": "P063",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 髙山汐生\n  所属クラブ歴:\n    - University of Tsukuba Football Club (2020–2023)\n    - Vissel Kobe (2024–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shioki Takayama\n  所属クラブ歴:\n    - Tsukuba Univ. (19/20)\n    - Vissel Kobe (23/24)\n    - Ryukyu Okinawa (24/25)"
+ },
+ {
+  "pair_id": "P064",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 猿田遥己\n  所属クラブ歴:\n    - Kashiwa Reysol\n\nレコードB（ローマ字ソース）:\n  氏名: Haruki Saruta\n  所属クラブ歴:\n    - Kashiwa Reysol (16/17)\n    - Gamba Osaka (19/20)\n    - Kagoshima Utd. (19/20)\n    - Yokohama FC (20/21)"
+ },
+ {
+  "pair_id": "P065",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 馬渡洋樹\n  所属クラブ歴:\n    - Ehime FC\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroki Mawatari\n  所属クラブ歴:\n    - N.I.F.S. Kanoya (12/13)\n    - Ehime FC (16/17)\n    - Kawasaki Front. (19/20)\n    - Fagiano Okayama (19/20)\n    - Shonan Bellmare (21/22)\n    - Tokyo Verdy (24/25)"
+ },
+ {
+  "pair_id": "P066",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 成瀬竣平\n  所属クラブ歴:\n    - Nagoya Grampus\n\nレコードB（ローマ字ソース）:\n  氏名: Shumpei Naruse\n  所属クラブ歴:\n    - Nagoya Grampus (18/19)\n    - Fagiano Okayama (21/22)\n    - Monte. Yamagata (22/23)\n    - Mito HollyHock (22/23)\n    - V-V. Nagasaki (23/24)\n    - Kashiwa Reysol (24/25)"
+ },
+ {
+  "pair_id": "P067",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山田大樹\n  所属クラブ歴:\n    - Kashima Antlers\n\nレコードB（ローマ字ソース）:\n  氏名: Taiki Yamada\n  所属クラブ歴:\n    - Kashima Antlers (19/20)\n    - Fagiano Okayama (22/23)"
+ },
+ {
+  "pair_id": "P068",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 坂田大樹\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Daiki Sakata\n  所属クラブ歴:\n    - RKU (12/13)\n    - Iwaki FC (16/17)\n    - Avispa Fukuoka (22/23)\n    - Kashiwa Reysol (24/25)\n    - Without Club (26/27)"
+ },
+ {
+  "pair_id": "P069",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 新井栄聡\n  所属クラブ歴:\n    - Ryutsu Keizai University FC (2015–2016)\n    - Shimizu S-Pulse (2018–2019)\n    - Zweigen Kanazawa\n    - Blaublitz Akita (2021–)\n    - Oita Trinita\n    - FC Machida Zelvia\n\nレコードB（ローマ字ソース）:\n  氏名: Yoshiaki Arai\n  所属クラブ歴:\n    - RKU (13/14)\n    - RKD Ryugasaki (14/15)\n    - Shimizu S-Pulse (17/18)\n    - Zweig. Kanazawa (18/19)\n    - Blaublitz Akita (20/21)\n    - Oita Trinita (22/23)"
+ },
+ {
+  "pair_id": "P070",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 佐古真礼\n  所属クラブ歴:\n    - Tokyo Verdy (2021–)\n    - Fujieda MYFC (2021–2021)\n    - AC Nagano Parceiro (2023–)\n\nレコードB（ローマ字ソース）:\n  氏名: Maaya Sako\n  所属クラブ歴:\n    - Tokyo Verdy (20/21)\n    - Fujieda MYFC (20/21)\n    - Nagano Parceiro (22/23)\n    - Iwate Grulla M. (23/24)"
+ },
+ {
+  "pair_id": "P071",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 粟飯原尚平\n  所属クラブ歴:\n    - FC Gifu\n\nレコードB（ローマ字ソース）:\n  氏名: Shohei Aihara\n  所属クラブ歴:\n    - Kinki University (14/15)\n    - FC Gifu (18/19)\n    - Roasso Kumamoto (21/22)\n    - Mito HollyHock (25/26)"
+ },
+ {
+  "pair_id": "P072",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 吉田舜\n  所属クラブ歴:\n    - Thespa Gunma\n\nレコードB（ローマ字ソース）:\n  氏名: Shun Yoshida\n  所属クラブ歴:\n    - Hosei Univ. (14/15)\n    - Thespaku. Gunma (18/19)\n    - Oita Trinita (19/20)\n    - Urawa Reds (22/23)\n    - Shonan Bellmare (25/26)"
+ },
+ {
+  "pair_id": "P073",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 植田悠太\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuta Ueda\n  所属クラブ歴:\n    - Kyoto Sanga (22/23)\n    - Omiya Ardija (23/24)\n    - JEF Utd. Chiba (24/25)"
+ },
+ {
+  "pair_id": "P074",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 薄井覇斗\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Haruto Usui\n  所属クラブ歴:\n    - RKU (17/18)\n    - RKU FC (17/18)\n    - RKD Ryugasaki (19/20)\n    - Matsumoto Yama. (21/22)\n    - Sanf. Hiroshima (23/24)\n    - JEF Utd. Chiba (24/25)"
+ },
+ {
+  "pair_id": "P075",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 井岡海都\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Kaito Ioka\n  所属クラブ歴:\n    - Sendai Uni (16/17)\n    - Vegalta Sendai (20/21)\n    - Gainare Tottori (22/23)\n    - V-V. Nagasaki (24/25)"
+ },
+ {
+  "pair_id": "P076",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: ヒル袈依廉\n  所属クラブ歴:\n    - Waseda University Association Football Club\n    - Sanfrecce Hiroshima (2025–)\n\nレコードB（ローマ字ソース）:\n  氏名: Cailen Hill\n  所属クラブ歴:\n    - Waseda Univ. (20/21)\n    - Sanf. Hiroshima (24/25)"
+ },
+ {
+  "pair_id": "P077",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 東廉太\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Renta Higashi\n  所属クラブ歴:\n    - FC Tokyo (22/23)\n    - SC Sagamihara (23/24)\n    - Gir. Kitakyushu (24/25)"
+ },
+ {
+  "pair_id": "P078",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 松山健太\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Kenta Matsuyama\n  所属クラブ歴:\n    - Momoyama Gak. (16/17)\n    - St.Andrews FC (17/18)\n    - Iwate Grulla M. (20/21)\n    - Kagoshima Utd. (22/23)\n    - Mito HollyHock (24/25)\n    - Avispa Fukuoka (25/26)"
+ },
+ {
+  "pair_id": "P079",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 神橋良汰\n  所属クラブ歴:\n    - Kawasaki Frontale (2025–)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryota Kamihashi\n  所属クラブ歴:\n    - Waseda Univ. (20/21)\n    - Kawasaki Front. (24/25)"
+ },
+ {
+  "pair_id": "P080",
+  "kind": "HARD",
+  "truth": "SAME",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: カウン・ゼン・マラ\n  所属クラブ歴:\n    - FC Machida Zelvia\n\nレコードB（ローマ字ソース）:\n  氏名: Kaung Zan Mara\n  所属クラブ歴:\n    - Sanno Univ. (20/21)\n    - Machida Zelvia (24/25)"
+ },
+ {
+  "pair_id": "P081",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 小泉慶\n  所属クラブ歴:\n    - Albirex Niigata (2014–)\n\nレコードB（ローマ字ソース）:\n  氏名: Yoshio Koizumi\n  所属クラブ歴:\n    - Aoyama Gakuin U (14/15)\n    - FC Ryukyu (18/19)\n    - Urawa Reds (20/21)\n    - Kashiwa Reysol (24/25)"
+ },
+ {
+  "pair_id": "P082",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 小川航基\n  所属クラブ歴:\n    - Júbilo Iwata (2016–2021)\n    - Mito HollyHock (2019–2019)\n    - Japan men's national football team (2019–2019)\n    - Yokohama FC (2022–)\n    - N.E.C. (2023–)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryoya Ogawa\n  所属クラブ歴:\n    - FC Tokyo (14/15)\n    - Vit. Guimarães (22/23)\n    - Sint-Truiden (23/24)\n    - Kashima Antlers (25/26)"
+ },
+ {
+  "pair_id": "P083",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 渡辺皓太\n  所属クラブ歴:\n    - Tokyo Verdy\n\nレコードB（ローマ字ソース）:\n  氏名: Taiki Watanabe\n  所属クラブ歴:\n    - Albirex Niigata (17/18)\n    - Zweig. Kanazawa (20/21)\n    - Yokohama F. M. (23/24)"
+ },
+ {
+  "pair_id": "P084",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 井上黎生人\n  所属クラブ歴:\n    - Gainare Tottori\n\nレコードB（ローマ字ソース）:\n  氏名: Kenta Inoue\n  所属クラブ歴:\n    - Fukuoka Univ. (16/17)\n    - Oita Trinita (20/21)\n    - Yokohama F. M. (22/23)\n    - Shimizu S-Pulse (25/26)"
+ },
+ {
+  "pair_id": "P085",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 井上聖也\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryota Inoue\n  所属クラブ歴:\n    - Rissho Univ. (18/19)\n    - Zweig. Kanazawa (22/23)\n    - Blaublitz Akita (24/25)\n    - Tokyo Verdy (25/26)"
+ },
+ {
+  "pair_id": "P086",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 新井瑞希\n  所属クラブ歴:\n    - SV Horn\n\nレコードB（ローマ字ソース）:\n  氏名: Naoto Arai\n  所属クラブ歴:\n    - Niigata Uni M. (14/15)\n    - Albirex Niigata (18/19)\n    - Cerezo Osaka (20/21)\n    - Tokushima Vort. (21/22)\n    - Sanf. Hiroshima (23/24)"
+ },
+ {
+  "pair_id": "P087",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 加藤陸次樹\n  所属クラブ歴:\n    - Ehime FC\n    - Zweigen Kanazawa\n\nレコードB（ローマ字ソース）:\n  氏名: Chihiro Kato\n  所属クラブ歴:\n    - RKU (16/17)\n    - RKD Ryugasaki (17/18)\n    - Vegalta Sendai (20/21)\n    - Monte. Yamagata (23/24)\n    - Mito HollyHock (25/26)"
+ },
+ {
+  "pair_id": "P088",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 藤本寛也\n  所属クラブ歴:\n    - Tokyo Verdy\n\nレコードB（ローマ字ソース）:\n  氏名: Kazuki Fujimoto\n  所属クラブ歴:\n    - N.I.F.S. Kanoya (16/17)\n    - Oita Trinita (20/21)\n    - Machida Zelvia (23/24)\n    - Avispa Fukuoka (24/25)"
+ },
+ {
+  "pair_id": "P089",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山田楓喜\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Shin Yamada\n  所属クラブ歴:\n    - Toin Univ. (18/19)\n    - Kawasaki Front. (22/23)\n    - Pr. Münster (25/26)\n    - Celtic (25/26)"
+ },
+ {
+  "pair_id": "P090",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 原輝綺\n  所属クラブ歴:\n    - Albirex Niigata (2017–2018)\n    - Japan men's national football team (2019–2019)\n    - Sagan Tosu (2019–2020)\n    - Shimizu S-Pulse (2021–)\n    - Grasshopper Club Zürich (2023–2023)\n\nレコードB（ローマ字ソース）:\n  氏名: Taichi Hara\n  所属クラブ歴:\n    - FC Tokyo (17/18)\n    - NK Istra (20/21)\n    - Sint-Truiden (21/22)\n    - Alavés (21/22)\n    - Kyoto Sanga (23/24)\n    - St. Pauli (25/26)"
+ },
+ {
+  "pair_id": "P091",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 平川怜\n  所属クラブ歴:\n    - FC Tokyo\n\nレコードB（ローマ字ソース）:\n  氏名: Yu Hirakawa\n  所属クラブ歴:\n    - Yamanashi Gak. (18/19)\n    - Machida Zelvia (21/22)\n    - Bristol City (24/25)\n    - Hull City (25/26)"
+ },
+ {
+  "pair_id": "P092",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 田中碧\n  所属クラブ歴:\n    - Kawasaki Frontale (2017–2022)\n    - Fortuna Düsseldorf (2021–2022)\n    - Japan men's national football team (2019–)\n    - Fortuna Düsseldorf (2022–2024)\n    - Leeds United F.C. (2024–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shunta Tanaka\n  所属クラブ歴:\n    - Osaka Uni H&SS (15/16)\n    - H. C. Sapporo (19/20)\n    - Cerezo Osaka (23/24)"
+ },
+ {
+  "pair_id": "P093",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 田中和樹\n  所属クラブ歴:\n    - FC Tokyo (2017–2017)\n    - Hosei University Football Club (2018–2022)\n    - Kyoto Sanga FC (2022–2023)\n    - JEF United Chiba (2023–2023)\n    - JEF United Chiba (2024–)\n\nレコードB（ローマ字ソース）:\n  氏名: Hayate Tanaka\n  所属クラブ歴:\n    - Kyoto Sangyo (17/18)\n    - Tokushima Vort. (21/22)\n    - FC Tokyo (25/26)"
+ },
+ {
+  "pair_id": "P094",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 後藤啓介\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Wataru Goto\n  所属クラブ歴:\n    - FC Tokyo (24/25)"
+ },
+ {
+  "pair_id": "P095",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 福田湧矢\n  所属クラブ歴:\n    - Gamba Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Shinnosuke Fukuda\n  所属クラブ歴:\n    - Meiji Uni (18/19)\n    - Kyoto Sanga (22/23)"
+ },
+ {
+  "pair_id": "P096",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中野伸哉\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryuma Nakano\n  所属クラブ歴:\n    - Ritsumeikan Uni (20/21)\n    - Kyoto Sanga (24/25)"
+ },
+ {
+  "pair_id": "P097",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山内翔\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Hinata Yamauchi\n  所属クラブ歴:\n    - Toin Univ. (19/20)\n    - Kawasaki Front. (23/24)\n    - Kashiwa Reysol (25/26)\n    - Vegalta Sendai (25/26)"
+ },
+ {
+  "pair_id": "P098",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 野澤大志ブランドン\n  所属クラブ歴:\n    - FC Tokyo\n\nレコードB（ローマ字ソース）:\n  氏名: Leon Nozawa\n  所属クラブ歴:\n    - FC Tokyo (21/22)\n    - SC Sagamihara (21/22)\n    - Matsumoto Yama. (23/24)"
+ },
+ {
+  "pair_id": "P099",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山下優人\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Ryoya Yamashita\n  所属クラブ歴:\n    - Nipp. Sp. Sc. U (15/16)\n    - Tokyo Verdy (19/20)\n    - Yokohama FC (21/22)\n    - Gamba Osaka (23/24)"
+ },
+ {
+  "pair_id": "P100",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 佐藤響\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Kein Sato\n  所属クラブ歴:\n    - Meiji Uni (19/20)\n    - W. Bremen II (23/24)\n    - FC Tokyo (24/25)"
+ },
+ {
+  "pair_id": "P101",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 早川隼平\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Uwabright Hayakawa\n  所属クラブ歴:\n    - Mito HollyHock (24/25)"
+ },
+ {
+  "pair_id": "P102",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 宮本優太\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Eiji Miyamoto\n  所属クラブ歴:\n    - Kokushikan Univ (16/17)\n    - Iwaki FC (20/21)\n    - Albirex Niigata (23/24)\n    - Fagiano Okayama (25/26)"
+ },
+ {
+  "pair_id": "P103",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 林大地\n  所属クラブ歴:\n    - Sagan Tosu\n\nレコードB（ローマ字ソース）:\n  氏名: Naoki Hayashi\n  所属クラブ歴:\n    - Osaka Uni H&SS (16/17)\n    - Kashima Antlers (20/21)\n    - Tokyo Verdy (22/23)"
+ },
+ {
+  "pair_id": "P104",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中村航輔\n  所属クラブ歴:\n    - Avispa Fukuoka (2015–2015)\n    - Kashiwa Reysol (2013–2020)\n    - Japan men's national football team (2017–2019)\n    - Portimonense S.C. (2021–)\n\nレコードB（ローマ字ソース）:\n  氏名: Keita Nakamura\n  所属クラブ歴:\n    - RKU (11/12)\n    - ACBB (13/14)\n    - V-V. Nagasaki (15/16)\n    - Shimizu S-Pulse (18/19)\n    - Kashiwa Reysol (21/22)"
+ },
+ {
+  "pair_id": "P105",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木椋大\n  所属クラブ歴:\n    - Yokohama F. Marinos (2012–2016)\n    - JEF United Chiba (2019–)\n    - Tokyo Verdy (2016–2016)\n    - Gamba Osaka (2017–2019)\n\nレコードB（ローマ字ソース）:\n  氏名: Yoshinori Suzuki\n  所属クラブ歴:\n    - Oita Trinita (13/14)\n    - Miyazaki Sangyo (14/15)\n    - Shimizu S-Pulse (20/21)\n    - Kyoto Sanga (23/24)"
+ },
+ {
+  "pair_id": "P106",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木陽人\n  所属クラブ歴:\n    - Nagoya Grampus\n\nレコードB（ローマ字ソース）:\n  氏名: Kaede Suzuki\n  所属クラブ歴:\n    - FC Tokyo (25/26)"
+ },
+ {
+  "pair_id": "P107",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 前貴之\n  所属クラブ歴:\n    - Hokkaido Consadole Sapporo (2011–)\n    - Kataller Toyama (2014–2014)\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroyuki Mae\n  所属クラブ歴:\n    - C'dole Sapporo (13/14)\n    - Khon Kaen FC (14/15)\n    - Mito HollyHock (17/18)\n    - H. C. Sapporo (18/19)\n    - Avispa Fukuoka (19/20)\n    - Machida Zelvia (24/25)"
+ },
+ {
+  "pair_id": "P108",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 齊藤未月\n  所属クラブ歴:\n    - Shonan Bellmare\n\nレコードB（ローマ字ソース）:\n  氏名: Kosuke Saito\n  所属クラブ歴:\n    - Yokohama FC (15/16)\n    - Tokyo Verdy (22/23)"
+ },
+ {
+  "pair_id": "P109",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 伊藤洋輝\n  所属クラブ歴:\n    - Nagoya Grampus\n    - Júbilo Iwata\n    - VfB Stuttgart\n\nレコードB（ローマ字ソース）:\n  氏名: Tatsuya Ito\n  所属クラブ歴:\n    - HSV U19 (15/16)\n    - Hamburger SV II (16/17)\n    - Hamburg (17/18)\n    - Sint-Truiden (19/20)\n    - 1.FC Magdeburg (21/22)\n    - Kawasaki Front. (24/25)"
+ },
+ {
+  "pair_id": "P110",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 渡邉新太\n  所属クラブ歴:\n    - Albirex Niigata (2017–)\n\nレコードB（ローマ字ソース）:\n  氏名: Tsuyoshi Watanabe\n  所属クラブ歴:\n    - Chuo University (14/15)\n    - FC Tokyo (18/19)\n    - KV Kortrijk (21/22)\n    - KAA Gent (23/24)\n    - Feyenoord (25/26)"
+ },
+ {
+  "pair_id": "P111",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 久保建英\n  所属クラブ歴:\n    - FC Tokyo (2016–2019)\n    - Japan men's national football team (2019–)\n    - RCD Mallorca (2019–2020)\n    - Villarreal CF (2020–2021)\n    - Getafe CF (2021–2021)\n    - RCD Mallorca (2021–2022)\n\nレコードB（ローマ字ソース）:\n  氏名: Tojiro Kubo\n  所属クラブ歴:\n    - Chukyo Univ. (17/18)\n    - Fujieda MYFC (21/22)\n    - Nagoya Grampus (23/24)\n    - Sagan Tosu (24/25)\n    - Kashiwa Reysol (24/25)"
+ },
+ {
+  "pair_id": "P112",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山本理仁\n  所属クラブ歴:\n    - Tokyo Verdy\n\nレコードB（ローマ字ソース）:\n  氏名: Hayata Yamamoto\n  所属クラブ歴:\n    - Senshu Univ. (20/21)\n    - Mito HollyHock (24/25)"
+ },
+ {
+  "pair_id": "P113",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 安井拓也\n  所属クラブ歴:\n    - Vissel Kobe\n\nレコードB（ローマ字ソース）:\n  氏名: Kaito Yasui\n  所属クラブ歴:\n    - RKU FC (17/18)\n    - RKU (17/18)\n    - RKD Ryugasaki (18/19)\n    - Urawa Reds (21/22)"
+ },
+ {
+  "pair_id": "P114",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 木村太哉\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Takuto Kimura\n  所属クラブ歴:\n    - Meiji Uni (18/19)\n    - Yokohama F. M. (22/23)\n    - Ventforet Kofu (23/24)\n    - Ehime FC (23/24)"
+ },
+ {
+  "pair_id": "P115",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: ンドカ・ボニフェイス\n  所属クラブ歴:\n    - Mito HollyHock\n    - Tokyo Verdy\n    - Yokohama FC\n    - Vissel Kobe\n\nレコードB（ローマ字ソース）:\n  氏名: Charles Nduka\n  所属クラブ歴:\n    - Yokohama SCC (20/21)\n    - FC Gifu (21/22)\n    - Kagoshima Utd. (23/24)\n    - Melb. Victory (25/26)"
+ },
+ {
+  "pair_id": "P116",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 根本凌\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Kenta Nemoto\n  所属クラブ歴:\n    - RKU FC (20/21)\n    - RKU (20/21)\n    - Urawa Reds (24/25)"
+ },
+ {
+  "pair_id": "P117",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 津久井匠海\n  所属クラブ歴:\n    - Yokohama F. Marinos\n    - ReinMeer Aomori\n    - Azul Claro Numazu\n    - Mito HollyHock\n    - RB Omiya Ardija\n    - JEF United Chiba\n\nレコードB（ローマ字ソース）:\n  氏名: Keisuke Tsukui\n  所属クラブ歴:\n    - Kashima Antlers (22/23)"
+ },
+ {
+  "pair_id": "P118",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 横山歩夢\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Yumeki Yokoyama\n  所属クラブ歴:\n    - FC Imabari (23/24)\n    - Cerezo Osaka (25/26)"
+ },
+ {
+  "pair_id": "P119",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 橋本健人\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Yu Hashimoto\n  所属クラブ歴:\n    - Fukuoka Univ. (20/21)\n    - Avispa Fukuoka (24/25)"
+ },
+ {
+  "pair_id": "P120",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 高橋祐治\n  所属クラブ歴:\n    - Brisbane Roar FC\n    - Kyoto Sanga FC (2012–)\n    - Kamatamare Sanuki (2015–2015)\n\nレコードB（ローマ字ソース）:\n  氏名: Kazuki Takahashi\n  所属クラブ歴:\n    - RKU Kashiwa HS (12/13)\n    - Leganés U19 (14/15)\n    - Real Aranjuez (15/16)\n    - OSK Igalo (16/17)\n    - FF Jaro (17/18)\n    - FC U Craiova (18/19)"
+ },
+ {
+  "pair_id": "P121",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 前田直輝\n  所属クラブ歴:\n    - Tokyo Verdy (2012–2015)\n    - Matsumoto Yamaga FC (2015–2016)\n    - Yokohama F. Marinos (2016–2018)\n    - Matsumoto Yamaga FC (2018–2018)\n    - Nagoya Grampus (2018–2022)\n    - FC Utrecht (2022–2023)\n\nレコードB（ローマ字ソース）:\n  氏名: Daizen Maeda\n  所属クラブ歴:\n    - Matsumoto Yama. (15/16)\n    - Mito HollyHock (16/17)\n    - Marítimo (19/20)\n    - Yokohama F. M. (20/21)\n    - Celtic (21/22)"
+ },
+ {
+  "pair_id": "P122",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 福田翔生\n  所属クラブ歴:\n    - FC Imabari (2019–2022)\n    - YSCC Yokohama (2023–2023)\n    - Shonan Bellmare (2023–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shio Fukuda\n  所属クラブ歴:\n    - M'gladbach U19 (22/23)\n    - Mönchengladbach (23/24)\n    - M'gladbach II (23/24)\n    - Karlsruher SC (25/26)"
+ },
+ {
+  "pair_id": "P123",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 藤井陽也\n  所属クラブ歴:\n    - Nagoya Grampus (–2024)\n    - K.V. Kortrijk (2024–2024)\n    - K.V. Kortrijk (2024–)\n\nレコードB（ローマ字ソース）:\n  氏名: Kaito Fujii\n  所属クラブ歴:\n    - RKU (20/21)\n    - Fagiano Okayama (24/25)"
+ },
+ {
+  "pair_id": "P124",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 菊池流帆\n  所属クラブ歴:\n    - Renofa Yamaguchi FC\n    - Vissel Kobe\n    - FC Machida Zelvia\n\nレコードB（ローマ字ソース）:\n  氏名: Taichi Kikuchi\n  所属クラブ歴:\n    - RKU FC (17/18)\n    - RKU (17/18)\n    - Sagan Tosu (21/22)\n    - Nagoya Grampus (24/25)"
+ },
+ {
+  "pair_id": "P125",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 佐野海舟\n  所属クラブ歴:\n    - FC Machida Zelvia (2019–2022)\n    - Kashima Antlers (2023–)\n\nレコードB（ローマ字ソース）:\n  氏名: Kodai Sano\n  所属クラブ歴:\n    - Fagiano Okayama (21/22)\n    - NEC Nijmegen (23/24)"
+ },
+ {
+  "pair_id": "P126",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 吉田温紀\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Taiju Yoshida\n  所属クラブ歴:\n    - Yamanashi Gak. (18/19)\n    - Monte. Yamagata (22/23)\n    - Tokyo Verdy (25/26)"
+ },
+ {
+  "pair_id": "P127",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 松本天夢\n  所属クラブ歴:\n    - Niigata University of Health and Welfare Soccer Club\n    - V-Varen Nagasaki\n\nレコードB（ローマ字ソース）:\n  氏名: Haruto Matsumoto\n  所属クラブ歴:\n    - Antlers U18 (21/22)\n    - Kashima Antlers (24/25)"
+ },
+ {
+  "pair_id": "P128",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 植田直通\n  所属クラブ歴:\n    - Kashima Antlers (2013–2018)\n    - Japan national under-17 football team (2011–2011)\n    - Japan men's national football team (2017–2021)\n    - Japan national under-23 football team (2014–)\n    - J.League U-22 Selection (2014–2015)\n    - Cercle Brugge K.S.V. (2018–2021)\n\nレコードB（ローマ字ソース）:\n  氏名: Ayase Ueda\n  所属クラブ歴:\n    - Hosei Univ. (16/17)\n    - Kashima Antlers (18/19)\n    - Cercle Brugge (22/23)\n    - Feyenoord (23/24)"
+ },
+ {
+  "pair_id": "P129",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 谷口彰悟\n  所属クラブ歴:\n    - Kawasaki Frontale (2014–2022)\n    - Japan men's national football team (2015–2015)\n    - Al-Rayyan (2023–)\n    - Sint-Truidense V.V.\n\nレコードB（ローマ字ソース）:\n  氏名: Kaito Taniguchi\n  所属クラブ歴:\n    - Gifu Keizai (13/14)\n    - Grulla Morioka (17/18)\n    - Roasso Kumamoto (19/20)\n    - Albirex Niigata (20/21)\n    - Central Coast (25/26)\n    - Mito HollyHock (26/27)"
+ },
+ {
+  "pair_id": "P130",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 斉藤光毅\n  所属クラブ歴:\n    - Yokohama FC (2019–)\n\nレコードB（ローマ字ソース）:\n  氏名: Shunsuke Saito\n  所属クラブ歴:\n    - Mito HollyHock (23/24)\n    - KVC Westerlo (25/26)"
+ },
+ {
+  "pair_id": "P131",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山根永遠\n  所属クラブ歴:\n    - Cerezo Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Riku Yamane\n  所属クラブ歴:\n    - Yokohama F. M. (21/22)"
+ },
+ {
+  "pair_id": "P132",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 内田宅哉\n  所属クラブ歴:\n    - FC Tokyo\n\nレコードB（ローマ字ソース）:\n  氏名: Yosuke Uchida\n  所属クラブ歴:\n    - Meiji Uni (20/21)\n    - Tokyo Verdy (24/25)"
+ },
+ {
+  "pair_id": "P133",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 松田天馬\n  所属クラブ歴:\n    - Shonan Bellmare\n\nレコードB（ローマ字ソース）:\n  氏名: Riku Matsuda\n  所属クラブ歴:\n    - Gamba Osaka (17/18)\n    - Zweig. Kanazawa (20/21)\n    - JEF Utd. Chiba (22/23)\n    - Tokyo Verdy (25/26)"
+ },
+ {
+  "pair_id": "P134",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 喜田陽\n  所属クラブ歴:\n    - Cerezo Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Ryoga Kida\n  所属クラブ歴:\n    - Argentinos Jrs. (23/24)\n    - Nagoya Grampus (23/24)"
+ },
+ {
+  "pair_id": "P135",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中島翔哉\n  所属クラブ歴:\n    - Tokyo Verdy (2012–2013)\n    - FC Tokyo (2014–2018)\n    - Kataller Toyama (2014–2014)\n    - Japan national under-17 football team (2011–2011)\n    - Japan national under-23 football team (2015–)\n    - Japan men's national football team (2018–2019)\n\nレコードB（ローマ字ソース）:\n  氏名: Motohiko Nakajima\n  所属クラブ歴:\n    - Cerezo Osaka (17/18)\n    - Albirex Niigata (20/21)\n    - Vegalta Sendai (21/22)"
+ },
+ {
+  "pair_id": "P136",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 小林友希\n  所属クラブ歴:\n    - Vissel Kobe\n    - Celtic F.C.\n    - FC Machida Zelvia\n    - Yokohama FC\n\nレコードB（ローマ字ソース）:\n  氏名: Masataka Kobayashi\n  所属クラブ歴:\n    - FC Tokyo (23/24)"
+ },
+ {
+  "pair_id": "P137",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 三浦弦太\n  所属クラブ歴:\n    - Shimizu S-Pulse (2013–2016)\n    - Japan men's national football team (2017–)\n    - Gamba Osaka (2017–)\n\nレコードB（ローマ字ソース）:\n  氏名: Sota Miura\n  所属クラブ歴:\n    - Nipp. Sp. Sc. U (18/19)\n    - Ventforet Kofu (22/23)\n    - Kawasaki Front. (23/24)"
+ },
+ {
+  "pair_id": "P138",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 長澤和輝\n  所属クラブ歴:\n    - Yokohama F. Marinos (2013–2013)\n    - 1. FC Köln (2014–2015)\n    - Japan men's national football team (2017–2017)\n    - Urawa Red Diamonds (2016–2020)\n    - JEF United Chiba (2016–2016)\n    - Nagoya Grampus (2021–)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuya Nagasawa\n  所属クラブ歴:\n    - Meiji Uni (14/15)\n    - a. cl. Numazu (18/19)\n    - Tokyo Verdy (20/21)"
+ },
+ {
+  "pair_id": "P139",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: オナイウ阿道\n  所属クラブ歴:\n    - JEF United Chiba (2014–)\n    - Urawa Red Diamonds\n    - Renofa Yamaguchi FC\n    - Oita Trinita\n    - Yokohama F. Marinos\n    - Toulouse FC\n\nレコードB（ローマ字ソース）:\n  氏名: George Onaiwu\n  所属クラブ歴:\n    - Niigata Uni H&W (18/19)\n    - Vegalta Sendai (22/23)\n    - Yokohama F. M. (25/26)"
+ },
+ {
+  "pair_id": "P140",
+  "kind": "CONF",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 福岡将太\n  所属クラブ歴:\n    - Fukushima United FC\n    - Shonan Bellmare\n    - Tokushima Vortis\n    - Tochigi SC\n    - Gamba Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Shimpei Fukuoka\n  所属クラブ歴:\n    - Kyoto Sanga (18/19)"
+ },
+ {
+  "pair_id": "P141",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木彩艶\n  所属クラブ歴:\n    - Urawa Red Diamonds (2019–)\n    - Sint-Truidense V.V. (2023–)\n\nレコードB（ローマ字ソース）:\n  氏名: Kaito Suzuki\n  所属クラブ歴:\n    - Júbilo Iwata (19/20)\n    - Tochigi SC (21/22)\n    - Tokyo Verdy (24/25)"
+ },
+ {
+  "pair_id": "P142",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木淳之介\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Akito Suzuki\n  所属クラブ歴:\n    - HanUHS (18/19)\n    - Shonan Bellmare (21/22)\n    - Sanf. Hiroshima (25/26)"
+ },
+ {
+  "pair_id": "P143",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 髙橋利樹\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Issei Takahashi\n  所属クラブ歴:\n    - JEF Utd. Chiba (16/17)\n    - Reno. Yamaguchi (17/18)\n    - Monte. Yamagata (18/19)"
+ },
+ {
+  "pair_id": "P144",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 佐々木翔悟\n  所属クラブ歴:\n    - Kashima Antlers (2019–2021)\n    - Iwate Grulla Morioka (2020–2021)\n    - JEF United Chiba (2022–)\n\nレコードB（ローマ字ソース）:\n  氏名: Asahi Sasaki\n  所属クラブ歴:\n    - RKU FC (17/18)\n    - RKU (17/18)\n    - Kawasaki Front. (21/22)"
+ },
+ {
+  "pair_id": "P145",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 伊藤涼太郎\n  所属クラブ歴:\n    - Urawa Red Diamonds\n\nレコードB（ローマ字ソース）:\n  氏名: Atsuki Ito\n  所属クラブ歴:\n    - RKU (16/17)\n    - Urawa Reds (19/20)\n    - KAA Gent (24/25)"
+ },
+ {
+  "pair_id": "P146",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 山田雄士\n  所属クラブ歴:\n    - Kashiwa Reysol\n\nレコードB（ローマ字ソース）:\n  氏名: Goki Yamada\n  所属クラブ歴:\n    - Kwansei Gakuin (18/19)\n    - Tokyo Verdy (22/23)"
+ },
+ {
+  "pair_id": "P147",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 西川潤\n  所属クラブ歴:\n    - Cerezo Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Konosuke Nishikawa\n  所属クラブ歴:\n    - Oita Trinita (20/21)\n    - Mito HollyHock (24/25)"
+ },
+ {
+  "pair_id": "P148",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 阿部海大\n  所属クラブ歴:\n    - Fagiano Okayama\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroki Abe\n  所属クラブ歴:\n    - Kashima Antlers (16/17)\n    - Barcelona B (19/20)\n    - Urawa Reds (23/24)"
+ },
+ {
+  "pair_id": "P149",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 田中聡\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuta Tanaka\n  所属クラブ歴:\n    - Mitsubishi Yowa (20/21)\n    - Keio Univ. (21/22)\n    - Yokohama F. M. (25/26)"
+ },
+ {
+  "pair_id": "P150",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 木村誠二\n  所属クラブ歴:\n    - FC Tokyo (2020–2025)\n    - Kyoto Sanga FC (2021–2021)\n    - SC Sagamihara (2021–2021)\n    - Montedio Yamagata (2020–2020)\n    - Sagan Tosu (2024–2024)\n    - K.V.C. Westerlo (2025–)\n\nレコードB（ローマ字ソース）:\n  氏名: Yudai Kimura\n  所属クラブ歴:\n    - Kwansei Gakuin (18/19)\n    - Kyoto Sanga (22/23)\n    - Tokyo Verdy (23/24)\n    - Zweig. Kanazawa (23/24)\n    - Nagoya Grampus (25/26)"
+ },
+ {
+  "pair_id": "P151",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 三戸舜介\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Rin Mito\n  所属クラブ歴:\n    - Kwansei Gakuin (19/20)\n    - Gamba Osaka (23/24)"
+ },
+ {
+  "pair_id": "P152",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 大森理生\n  所属クラブ歴:\n    - FC Tokyo U-23 (2019–2019)\n    - FC Tokyo (2021–)\n    - FC Ryukyu Okinawa (2022–2022)\n    - RB Omiya Ardija (2023–2023)\n    - Iwaki FC (2024–2024)\n    - FC Imabari (2025–)\n\nレコードB（ローマ字ソース）:\n  氏名: Hiroshi Omori\n  所属クラブ歴:\n    - Tokushima Vort. (20/21)\n    - Fukushima Utd. (22/23)\n    - Tochigi SC (24/25)\n    - Fagiano Okayama (25/26)"
+ },
+ {
+  "pair_id": "P153",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "obscure",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 松村晃助\n  所属クラブ歴:\n    - Hosei University Football Club (2023–)\n    - Yokohama F. Marinos\n\nレコードB（ローマ字ソース）:\n  氏名: Takumi Matsumura\n  所属クラブ歴:\n    - Takushoku Univ. (21/22)\n    - JEF Utd. Chiba (25/26)"
+ },
+ {
+  "pair_id": "P154",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 荒井悠汰\n  所属クラブ歴:\n    - (情報なし)\n\nレコードB（ローマ字ソース）:\n  氏名: Yuta Arai\n  所属クラブ歴:\n    - Toyo Univ. (20/21)\n    - Tokyo Verdy (24/25)"
+ },
+ {
+  "pair_id": "P155",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "famous",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中村敬斗\n  所属クラブ歴:\n    - Gamba Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Takumi Nakamura\n  所属クラブ歴:\n    - FC Tokyo (18/19)\n    - Yokohama FC (21/22)\n    - Cerezo Osaka (24/25)"
+ },
+ {
+  "pair_id": "P156",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 中村仁郎\n  所属クラブ歴:\n    - Gamba Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Sota Nakamura\n  所属クラブ歴:\n    - Meiji Uni (20/21)\n    - Sanf. Hiroshima (24/25)"
+ },
+ {
+  "pair_id": "P157",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 松本泰志\n  所属クラブ歴:\n    - Sanfrecce Hiroshima\n\nレコードB（ローマ字ソース）:\n  氏名: Kenta Matsumoto\n  所属クラブ歴:\n    - Toyo Univ. (15/16)\n    - Kashiwa Reysol (19/20)\n    - Omiya Ardija (20/21)"
+ },
+ {
+  "pair_id": "P158",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木徳真\n  所属クラブ歴:\n    - Tokushima Vortis\n\nレコードB（ローマ字ソース）:\n  氏名: Yoshitake Suzuki\n  所属クラブ歴:\n    - FC Tokyo (16/17)\n    - Mito HollyHock (20/21)\n    - Fagiano Okayama (22/23)"
+ },
+ {
+  "pair_id": "P159",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 鈴木冬一\n  所属クラブ歴:\n    - Cerezo Osaka\n\nレコードB（ローマ字ソース）:\n  氏名: Yuito Suzuki\n  所属クラブ歴:\n    - Shimizu S-Pulse (19/20)\n    - R. Strasbourg (22/23)\n    - Bröndby IF (23/24)\n    - Freiburg (25/26)"
+ },
+ {
+  "pair_id": "P160",
+  "kind": "HARD_NEG",
+  "truth": "DIFFERENT",
+  "jp_stratum": "mid",
+  "prompt_A": "以下の2レコードが同一人物か判定してください。生年月日は与えられていません。日本語名とローマ字名の対応、およびクラブ在籍歴の整合から判断してください。2つのレコードは別々のデータベース由来で、クラブ表記や網羅範囲は完全一致とは限りません。出力は次のJSONのみ: {\"final_decision\":\"SAME|DIFFERENT\",\"action\":\"KEEP|CHANGE\",\"confidence\":0-100,\"evidence_codes\":[\"NAME_TRANSLITERATION\"|\"CLUB_TENURE_CONSISTENT\"|\"CLUB_TENURE_CONFLICT\"|\"LEAGUE_MATCH\"]}\n\nレコードA（日本語ソース）:\n  氏名: 藤田和輝\n  所属クラブ歴:\n    - Albirex Niigata\n\nレコードB（ローマ字ソース）:\n  氏名: Joel Chima Fujita\n  所属クラブ歴:\n    - Tokyo Verdy (19/20)\n    - Tokushima Vort. (20/21)\n    - Yokohama F. M. (21/22)\n    - Sint-Truiden (23/24)\n    - St. Pauli (25/26)"
+ }
+]
