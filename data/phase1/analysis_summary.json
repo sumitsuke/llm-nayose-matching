@@ -58,7 +58,7 @@
  "C_actions": {
   "keep": 116,
   "change_declared": 4,
-  "change_flipped": 3,
+  "change_flipped": 2,
   "change_flipped_wrong": 2,
   "change_declared_no_flip": 2
  },

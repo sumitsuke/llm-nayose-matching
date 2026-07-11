@@ -133,8 +133,8 @@ for r in a_wrong:
     print(f"    {r['pair_id']}({r['kind']} 正解{r['truth']}): A={dec(r,'A')} B={dec(r,'B')} C={dec(r,'C')}(act {action(r,'C')}) → C{'が修正' if correct(r,'C') else 'は修正せず(KEEP)' if action(r,'C')=='KEEP' else 'は修正失敗'}")
 
 print("\n--- 探索: A vs B 非決定性(Z3・相互参照のみ) ---")
-flip=sum(1 for r in res if dec(r,"A") is not None and dec(r,"B") is not None and dec(r,"A")!=dec(r,"B"))
-print(f"  A≠B(独立再実行で判定が変わった) = {flip}/{len(res)}")
+ab_flip=sum(1 for r in res if dec(r,"A") is not None and dec(r,"B") is not None and dec(r,"A")!=dec(r,"B"))
+print(f"  A≠B(独立再実行で判定が変わった) = {ab_flip}/{len(res)}")
 
 print("\n--- 探索: 較正(A確信度 粗ビン・確認120) ---")
 def conf_bin(r):
