@@ -33,3 +33,7 @@
 AIで作ったアプリ・外注コードの検証、名寄せなどのデータ整合のご相談を承っています。
 - AIコードの検証・監査・修正 → https://coconala.com/services/4282365
 - プロフィール → https://coconala.com/users/6153961 ／ https://getaxiom.dev
+
+## License
+
+Code: MIT (see `LICENSE`). Data, tables and figures: CC BY 4.0 (see `DATA_LICENSE`) — please credit **Sumitsuke Lab** (https://sumitsuke.jp/lab/).
