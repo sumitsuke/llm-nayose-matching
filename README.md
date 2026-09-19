@@ -6,6 +6,15 @@
 
 ## 設計（要点）
 - **条件**: A=初回判定 / B=独立再実行（Aと同一プロンプト・別コンテキスト）/ C=二段階レビュー（A の出力を叩き台として再監査）。
+
+## 走らせ方（標準ライブラリだけ・約 0.5 秒）
+
+```bash
+python3 src/analyze.py        # data/phase1/run_results.json → data/phase1/analysis_summary.json（コミット済みと 1 バイトも違わない）
+git diff --exit-code data/phase1/analysis_summary.json
+```
+
+**第三者が検証できる範囲**: 公開している判定結果（`run_results.json`）と正解ラベルに対する**集計**（A/B/C の正解数・破壊件数・CI）は上の 2 行で再生成できます。**正解ラベルそのものの正しさ**（生年月日で機械照合した工程）は、元データを非公開にしているため第三者は確認できません。CI（`.github/workflows/verify.yml`）は push のたびに再生成→一致を確かめます。
 - **被験モデル**: `gpt-5.4-mini`（reasoning_effort=low・版とパラメータは事前登録に pin）。
 - **ペア**: 160件（確認120＝真マッチ60/非マッチ60 ＋ 難例40）。非マッチは**同姓・同世代**で構成し「別の年代だから」の近道を除去。真マッチは翻字揺れ・語順・混成名など。
 - **表層形**: 日本語側=Wikidata（CC0）、ローマ字側=Transfermarkt由来データ。**モデル入力から生年月日・各種ID・URLは除外**（ID照合でなく名寄せを測るため）。
