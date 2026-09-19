@@ -18,5 +18,6 @@ jobs:
           ruff format --check .
       - name: reproduce from committed data and compare
         run: |
+          pip install -q pytest && python -m pytest -q tests
           python src/analyze.py
           git diff --exit-code -- data/phase1/analysis_summary.json
