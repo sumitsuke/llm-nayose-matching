@@ -12,6 +12,7 @@
 ```bash
 python3 src/analyze.py        # data/phase1/run_results.json → data/phase1/analysis_summary.json（コミット済みと 1 バイトも違わない）
 git diff --exit-code data/phase1/analysis_summary.json
+python -m pytest -q tests     # Wilson の区間が [0, 100] に収まること
 ```
 
 **第三者が検証できる範囲**: 公開している判定結果（`run_results.json`）と正解ラベルに対する**集計**（A/B/C の正解数・破壊件数・CI）は上の 2 行で再生成できます。**正解ラベルそのものの正しさ**（生年月日で機械照合した工程）は、元データを非公開にしているため第三者は確認できません。CI（`.github/workflows/verify.yml`）は push のたびに再生成→一致を確かめます。

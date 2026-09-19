@@ -1,5 +1,7 @@
 # 結果（Results）
 
+> **設計の失敗（2026-09-19 追記）**: 確認セットで初回判定が 120/120（全 160 で 159/160）＝**天井**のため、主要評価項目（C−B の差）は測定不能に終わった。dev-20 で正解率を見ていれば 1 時間で分かったことで、事前の「天井／床の確認・検出したい差・ブレ幅・反復数」が無かったのが原因。以後の企画設計はこの 4 行を必須にしている（Sumitsuke の共通処理）。下の数字はすべてその制約の中で読むこと。
+
 **TL;DR** — On this task the model (gpt-5.4-mini) is near-ceiling: initial (A) is 159/160 overall and 120/120 on the 120 confirmation pairs, so **only 1 error was fixable** and self-review kept it unfixed. **Across all 160 pairs, self-review C and independent re-run B tie at 156/160**; initial-correct→wrong reversals number **3 for each**; the B-vs-C discordant pairs are just 2, **symmetric (1,1)** (川辺 favors C, 髙山 favors B). The pre-registered primary (confirmation-set C vs B) shows C=118 vs B=117, but that 1-pair edge is subset-dependent and cancels over the full set. So there is **no observed advantage of self-review over a blind re-run** (with only 2 discordant pairs, equivalence is not established either) — and "does it fix errors?" is essentially untested (1 fixable error). This is the **ceiling / difficulty-calibration base-point** of a series (serialization decided after seeing this result, not designed as a control up front).
 
 被験モデル: `gpt-5.4-mini-2026-03-17`, `reasoning_effort=low`. 走行: 2026-07-10, 160ペア×A/B/C=480呼び出し, 総コスト ~$0.446 (各行丸め). パース失敗 0/480.

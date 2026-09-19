@@ -27,7 +27,7 @@ def correct(r, cond):
     return dec(r, cond) == r["truth"]
 
 
-from math import comb, sqrt
+from math import comb
 
 
 def mcnemar_exact(b, c):  # two-sided exact McNemar on discordant counts (b, c)
@@ -39,14 +39,9 @@ def mcnemar_exact(b, c):  # two-sided exact McNemar on discordant counts (b, c)
     return min(1.0, 2 * p)
 
 
-def wilson(k, n, z=1.96):  # Wilson score 95% CI in percent (pre-registered for destruction/asymmetry)
-    if n == 0:
-        return (float("nan"), float("nan"))
-    p = k / n
-    den = 1 + z * z / n
-    c = (p + z * z / (2 * n)) / den
-    h = z * sqrt(p * (1 - p) / n + z * z / (4 * n * n)) / den
-    return (100 * (c - h), 100 * (c + h))
+from stats_ci import (
+    wilson,
+)  # Wilson score 95% CI in percent (moved to src/stats_ci.py so it can be unit-tested without running the analysis)
 
 
 conf = [r for r in res if r["kind"] == "CONF"]
